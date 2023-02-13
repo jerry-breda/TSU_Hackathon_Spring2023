@@ -1,0 +1,1001 @@
+id,first_name,last_name,ethnicity,gender,classification,high_school,career_interest,weekly_hours_studied,gpa,math_classes_taken,computers_owned,applied_to_tsu
+1,Cacilia,Barbera,White,Female,Freshman,Eastwood Academy,Engineering,0,3.4,1,1,1
+2,Reinhard,Eisikovitsh,American Indian/Alaska Native,Male,Sophomore,Challenge Early College High School,Engineering,10,3.7,2,5+,0
+3,Klara,Marcinkowski,White,Female,Sophomore,James Madison High School,Agriculture,5,2.5,2,0,0
+4,Ellen,Giabucci,Asian,Female,Junior,Challenge Early College High School,Advertising/marketing,0,3.6,1,1,1
+5,Nahum,Vern,Multicultural,Male,Senior,Phillis Wheatley High School,Engineering,15,3.8,3,4,1
+6,Aretha,Themann,Asian,Female,Senior,Carnegie Vanguard High School,Multimedia,5,2.3,4,4,1
+7,Basilio,Daunay,Multicultural,Male,Senior,Westbury High School,Education,15,3.8,5,3,1
+8,Jolynn,Kneale,Hispanic/Latino,Female,Junior,Stephen P. Waltrip High School,Advertising/marketing,15,3.9,2,2,0
+9,Robbyn,Elis,Hispanic/Latino,Female,Freshman,Stephen F. Austin High School,Entertainment,15,3.6,1,3,1
+10,Samaria,Worgen,Hispanic/Latino,Female,Junior,Energy Institute High School,Engineering,5,2.2,3,3,0
+11,Christyna,Eddisford,Hispanic/Latino,Female,Junior,Energy Institute High School,Engineering,0,2.1,4,4,1
+12,Den,Constantinou,Hispanic/Latino,Male,Freshman,Charles H. Milby High School,Agriculture,5,2.2,2,4,1
+13,Dell,Jouanet,White,Bigender,Freshman,Bellaire High School,Multimedia,0,2.1,2,0,0
+14,Alyosha,Dine-Hart,Black/African American,Male,Sophomore,Phillis Wheatley High School,Education,10,2.1,2,1,0
+15,Rosetta,Wightman,Hispanic/Latino,Female,Sophomore,Sam Houston Math Science & Technology Center,Agriculture,20,2.8,2,1,0
+16,Blane,Hayller,Hispanic/Latino,Male,Junior,Sharpstown High School,Engineering,10,2.8,5,3,0
+17,Elisha,Hiddy,Hispanic/Latino,Male,Sophomore,East Early College High School,Education,15,3.2,2,5+,1
+18,Oneida,Parcall,White,Female,Senior,Stephen F. Austin High School,Medical,10,3.3,2,2,1
+19,Revkah,Collier,White,Female,Freshman,Bellaire High School,Multimedia,5,2.6,1,3,1
+20,Genni,Boliver,Hispanic/Latino,Female,Sophomore,Empowerment College Preparatory High School,Entertainment,0,2.6,1,1,0
+21,Graehme,Clyne,Multicultural,Male,Freshman,Margaret Long Wisdom High School,Entertainment,0,3.4,1,0,1
+22,Cory,Bythell,Hispanic/Latino,Female,Freshman,Northside High School,Agriculture,10,3.6,1,2,1
+23,Salomon,Wilcinskis,White,Male,Senior,Margaret Long Wisdom High School,Education,10,2.6,4,5+,0
+24,Rianon,Bruffell,Hispanic/Latino,Female,Sophomore,Charles H. Milby High School,Entertainment,10,3.1,2,2,0
+25,Wat,Humbee,Hispanic/Latino,Male,Senior,James Madison High School,Fashion,15,2.1,6,4,0
+26,Frayda,Geraudel,Black/African American,Female,Senior,Margaret Long Wisdom High School,Advertising/marketing,15,2.6,3,2,1
+27,Fernando,Habens,Asian,Male,Sophomore,Bellaire High School,Agriculture,0,2.4,2,0,0
+28,Geoffry,Scotti,Hispanic/Latino,Male,Sophomore,Bellaire High School,Advertising/marketing,0,2.2,2,5+,1
+29,Beitris,Ditts,White,Female,Sophomore,Stephen P. Waltrip High School,Engineering,5,2.0,2,4,0
+30,Renata,Liebrecht,Native Hawaiian/Other Pacific Islander,Female,Senior,César E. Chávez High School,Finance,15,2.8,3,4,0
+31,Frank,Reignard,Black/African American,Female,Junior,Northside High School,Education,10,2.3,3,3,1
+32,Ryon,Crosham,American Indian/Alaska Native,Male,Senior,Ross Shaw Sterling High School,Engineering,15,3.6,3,3,0
+33,Forest,Gilcriest,Hispanic/Latino,Male,Freshman,Eastwood Academy,Multimedia,5,2.6,1,1,1
+34,Starla,Warratt,Black/African American,Female,Junior,Bellaire High School,Engineering,5,2.3,1,0,1
+35,Pauline,Asals,Hispanic/Latino,Female,Sophomore,Sam Houston Math Science & Technology Center,Medical,10,3.9,2,3,1
+36,Trumann,Brace,American Indian/Alaska Native,Male,Sophomore,East Early College High School,Agriculture,10,3.0,2,2,1
+37,Orlando,McCrory,American Indian/Alaska Native,Male,Junior,Mirabeau B. Lamar High School,Fashion,0,2.3,3,1,1
+38,Mitch,Bladon,Multicultural,Male,Sophomore,Kashmere High School,Medical,15,3.5,2,3,0
+39,Cookie,MacEveley,Hispanic/Latino,Female,Senior,Ebbert L. Furr High School,Advertising/marketing,20,3.8,3,1,1
+40,Germana,Demelt,Black/African American,Female,Junior,Mirabeau B. Lamar High School,Engineering,5,2.5,4,3,1
+41,Louis,Cureton,White,Male,Senior,North Forest High School,Fashion,5,3.2,5,3,0
+42,Agnella,Diggin,Hispanic/Latino,Female,Junior,Jack Yates High School,Entertainment,10,2.1,5,1,1
+43,Jory,Postins,American Indian/Alaska Native,Male,Senior,Westbury High School,Medical,5,2.3,3,5+,1
+44,Dennis,Chessum,White,Male,Sophomore,Carnegie Vanguard High School,Education,0,2.0,2,2,1
+45,Gilles,Edinborough,American Indian/Alaska Native,Male,Senior,North Forest High School,Entertainment,10,2.0,6,2,1
+46,Duffy,Stolberger,Native Hawaiian/Other Pacific Islander,Male,Junior,Heights High School,Entertainment,10,3.4,4,0,1
+47,Donielle,Blowers,Hispanic/Latino,Female,Freshman,Eastwood Academy,Advertising/marketing,0,4.0,2,5+,1
+48,Stephanie,Deeny,Black/African American,Female,Junior,Mirabeau B. Lamar High School,Engineering,0,3.4,3,1,1
+49,Ulric,Bouller,White,Male,Junior,North Forest High School,Engineering,5,2.1,2,1,0
+50,Salomo,Glasscoo,Hispanic/Latino,Male,Junior,Empowerment College Preparatory High School,Finance,0,2.4,2,4,1
+51,Barnard,Tyreman,Asian,Male,Sophomore,Sam Houston Math Science & Technology Center,Engineering,10,3.9,1,4,1
+52,Isidor,Donett,White,Male,Junior,Charles H. Milby High School,Fashion,15,2.0,3,4,1
+53,Minna,Minchenton,White,Genderfluid,Freshman,Heights High School,Engineering,0,2.0,2,5+,0
+54,Leslie,Feldhuhn,Asian,Female,Senior,Phillis Wheatley High School,Agriculture,20,3.6,5,4,1
+55,Naoma,Ravenscroft,Hispanic/Latino,Female,Freshman,Stephen P. Waltrip High School,Engineering,5,2.5,2,2,0
+56,Walliw,Tregien,Native Hawaiian/Other Pacific Islander,Female,Senior,Energy Institute High School,Finance,15,3.3,6,3,0
+57,Cheston,Atwel,Black/African American,Male,Freshman,East Early College High School,Agriculture,15,3.5,2,0,1
+58,Bordie,Strowger,Black/African American,Male,Senior,Eastwood Academy,Engineering,5,2.2,5,3,1
+59,Shay,Monteaux,Native Hawaiian/Other Pacific Islander,Male,Freshman,Empowerment College Preparatory High School,Multimedia,10,3.2,1,1,1
+60,Harlie,Jacobovitch,White,Female,Freshman,Ross Shaw Sterling High School,Medical,15,3.9,1,1,1
+61,Jean,Smidmore,White,Female,Freshman,Westside High School,Engineering,0,2.4,1,5+,0
+62,Mary,Harmstone,Hispanic/Latino,Non-binary,Junior,Westside High School,Agriculture,10,2.0,4,4,1
+63,Rosanna,Haldon,Hispanic/Latino,Female,Junior,Westbury High School,Education,15,3.9,1,1,1
+64,Gennie,Antosch,White,Female,Freshman,Bellaire High School,Advertising/marketing,15,3.9,1,1,1
+65,Madelina,Zambonini,Hispanic/Latino,Genderqueer,Freshman,Heights High School,Agriculture,10,2.5,1,1,1
+66,Carmine,Bridgman,Black/African American,Male,Sophomore,East Early College High School,Agriculture,5,2.9,2,5+,1
+67,Wood,Frankel,Multicultural,Male,Freshman,Phillis Wheatley High School,Finance,0,3.5,1,2,1
+68,Norrie,Dobbins,Hispanic/Latino,Male,Freshman,Bellaire High School,Entertainment,0,2.1,1,2,1
+69,Hillel,Burn,Black/African American,Male,Freshman,East Early College High School,Multimedia,10,2.7,2,1,1
+70,Pancho,MacManus,Black/African American,Male,Sophomore,East Early College High School,Medical,15,4.0,2,4,0
+71,Agretha,Quarterman,Multicultural,Female,Sophomore,Ross Shaw Sterling High School,Engineering,0,2.5,2,5+,1
+72,Hunter,Kleingrub,Multicultural,Male,Junior,Westbury High School,Multimedia,5,2.0,3,1,1
+73,Otto,Shark,White,Male,Sophomore,Booker T. Washington High School,Multimedia,15,3.9,2,3,0
+74,Brok,Curl,American Indian/Alaska Native,Male,Freshman,Bellaire High School,Fashion,5,2.4,1,3,0
+75,Tomasina,Eastby,Native Hawaiian/Other Pacific Islander,Female,Freshman,Empowerment College Preparatory High School,Education,15,3.4,1,5+,1
+76,Lane,Marsay,Hispanic/Latino,Male,Freshman,Sharpstown High School,Education,0,2.1,1,5+,1
+77,Sybila,McGuane,Native Hawaiian/Other Pacific Islander,Female,Junior,Ross Shaw Sterling High School,Agriculture,10,3.2,5,4,1
+78,Sydney,Dugue,Hispanic/Latino,Male,Freshman,Kashmere High School,Agriculture,15,3.7,1,0,1
+79,Allin,Conre,Asian,Male,Junior,Energy Institute High School,Engineering,10,3.8,2,5+,0
+80,Hirsch,Di Napoli,Asian,Male,Freshman,Margaret Long Wisdom High School,Multimedia,10,2.6,1,4,1
+81,Jane,Wiffler,American Indian/Alaska Native,Female,Junior,Heights High School,Fashion,15,3.9,2,4,1
+82,Aprilette,Rosina,Asian,Female,Junior,Eastwood Academy,Advertising/marketing,10,3.0,5,5+,0
+83,Les,Schoolfield,Hispanic/Latino,Male,Junior,Ebbert L. Furr High School,Fashion,5,2.5,2,3,1
+84,Vin,Lowers,White,Male,Sophomore,Charles H. Milby High School,Medical,10,3.6,2,3,0
+85,Pavel,Janouch,Multicultural,Male,Freshman,Empowerment College Preparatory High School,Medical,0,2.4,1,2,0
+86,Karolina,Brister,Hispanic/Latino,Female,Freshman,East Early College High School,Engineering,10,3.8,1,0,1
+87,Hobard,Mc Grath,Native Hawaiian/Other Pacific Islander,Male,Freshman,Scarborough High School,Agriculture,5,2.1,1,1,1
+88,Bealle,Deboy,White,Male,Junior,Empowerment College Preparatory High School,Agriculture,0,2.5,2,2,1
+89,Addia,Cuckson,White,Female,Junior,Heights High School,Medical,10,2.3,2,5+,1
+90,Annis,McNellis,Multicultural,Female,Freshman,Scarborough High School,Education,15,3.9,1,4,1
+91,Arny,Chicchelli,White,Male,Freshman,Mirabeau B. Lamar High School,Education,15,4.0,1,3,1
+92,Cobbie,Scattergood,White,Agender,Junior,Challenge Early College High School,Education,0,2.7,3,4,1
+93,Dominique,Audley,Black/African American,Female,Senior,Ross Shaw Sterling High School,Education,20,2.8,5,1,1
+94,Marthe,Quin,American Indian/Alaska Native,Female,Senior,Westbury High School,Multimedia,20,3.8,4,5+,0
+95,Dud,Eke,Hispanic/Latino,Male,Junior,Evan E. Worthing High School,Fashion,10,2.8,3,0,1
+96,Karly,Gumbrell,White,Agender,Junior,North Forest High School,Education,10,3.1,3,2,1
+97,Bink,Cully,Black/African American,Male,Senior,Westside High School,Engineering,0,3.2,3,2,1
+98,Ashley,Houtbie,American Indian/Alaska Native,Female,Freshman,César E. Chávez High School,Entertainment,10,4.0,1,1,1
+99,Giff,Sone,Hispanic/Latino,Male,Freshman,Eastwood Academy,Agriculture,15,3.4,2,0,1
+100,Dory,Hamblen,Hispanic/Latino,Male,Sophomore,Mirabeau B. Lamar High School,Multimedia,0,2.2,2,2,1
+101,Jo,Keveren,Hispanic/Latino,Male,Sophomore,Charles H. Milby High School,Education,5,2.3,2,2,1
+102,Wilt,Cissell,White,Male,Junior,Ross Shaw Sterling High School,Entertainment,10,2.7,3,2,0
+103,Davis,Kalinke,White,Genderfluid,Senior,Heights High School,Multimedia,20,3.1,3,1,1
+104,Skipton,Knightly,White,Male,Senior,Kashmere High School,Medical,20,4.0,5,5+,0
+105,Rudiger,Whalebelly,Multicultural,Male,Senior,Jack Yates High School,Agriculture,15,4.0,4,0,0
+106,Courtenay,Alwen,White,Genderfluid,Junior,Empowerment College Preparatory High School,Agriculture,15,2.4,1,1,0
+107,Carlin,Verey,White,Male,Senior,Bellaire High School,Finance,15,3.9,4,0,1
+108,Josefa,McKyrrelly,Black/African American,Female,Senior,Mirabeau B. Lamar High School,Education,20,3.6,4,4,1
+109,Rakel,Inglish,White,Female,Freshman,Charles H. Milby High School,Agriculture,0,3.4,1,0,1
+110,Alene,Sivell,Hispanic/Latino,Female,Sophomore,Challenge Early College High School,Advertising/marketing,10,2.7,3,3,1
+111,Delcine,Eastgate,Hispanic/Latino,Female,Senior,Bellaire High School,Fashion,20,2.5,2,4,1
+112,Waite,Remington,Hispanic/Latino,Male,Freshman,Bellaire High School,Fashion,15,4.0,1,0,1
+113,Elita,Escoffrey,Hispanic/Latino,Female,Sophomore,Empowerment College Preparatory High School,Agriculture,10,3.1,3,2,0
+114,Cissy,Merdew,Hispanic/Latino,Female,Freshman,Energy Institute High School,Engineering,15,3.7,1,2,1
+115,Dani,Redman,Hispanic/Latino,Male,Junior,Charles H. Milby High School,Agriculture,0,3.4,4,2,1
+116,Artemis,Bergen,Hispanic/Latino,Male,Freshman,César E. Chávez High School,Education,0,2.9,2,0,1
+117,Hally,Ruger,White,Female,Sophomore,Heights High School,Fashion,5,2.0,2,3,1
+118,Fayre,Duester,Hispanic/Latino,Bigender,Sophomore,Jack Yates High School,Finance,5,2.0,2,2,1
+119,Rafaelita,Edyson,White,Female,Sophomore,Empowerment College Preparatory High School,Agriculture,0,2.4,2,0,1
+120,Lyndsay,Silveston,Multicultural,Female,Sophomore,Ebbert L. Furr High School,Entertainment,5,2.5,3,2,1
+121,Roosevelt,Rostern,Hispanic/Latino,Male,Freshman,Bellaire High School,Agriculture,5,2.0,1,0,0
+122,Phyllys,Pedel,White,Female,Freshman,Westbury High School,Multimedia,10,2.9,1,1,0
+123,Morena,Harbisher,White,Female,Sophomore,Heights High School,Advertising/marketing,0,3.1,2,3,0
+124,Lance,Radki,Multicultural,Male,Junior,Northside High School,Agriculture,10,2.6,4,0,1
+125,Elfrida,Faughnan,Black/African American,Female,Junior,Heights High School,Engineering,5,2.0,2,3,1
+126,Micaela,Mold,White,Genderqueer,Sophomore,Sam Houston Math Science & Technology Center,Engineering,5,2.0,2,5+,0
+127,Georgina,Sottell,Hispanic/Latino,Female,Sophomore,César E. Chávez High School,Agriculture,15,3.8,1,1,0
+128,Conway,Berthot,White,Male,Freshman,Westside High School,Agriculture,0,2.0,1,0,0
+129,Pierrette,Capstick,Hispanic/Latino,Female,Senior,Westbury High School,Entertainment,10,2.5,3,3,1
+130,Far,Dogerty,White,Male,Junior,Evan E. Worthing High School,Education,15,2.0,3,5+,1
+131,Palmer,Petican,Multicultural,Male,Freshman,Challenge Early College High School,Agriculture,5,2.1,2,5+,1
+132,Wald,Immings,Black/African American,Male,Freshman,Scarborough High School,Medical,5,2.3,1,5+,1
+133,Patty,Figliovanni,Hispanic/Latino,Male,Senior,Empowerment College Preparatory High School,Education,20,2.9,3,4,0
+134,Tamra,Semered,White,Female,Senior,Stephen P. Waltrip High School,Multimedia,20,2.7,3,4,1
+135,Gustaf,Gann,Native Hawaiian/Other Pacific Islander,Male,Freshman,Sam Houston Math Science & Technology Center,Multimedia,10,3.2,1,3,1
+136,Delores,O'Brogane,Multicultural,Female,Senior,Carnegie Vanguard High School,Agriculture,0,2.7,5,3,1
+137,Inigo,Pourvoieur,Black/African American,Male,Junior,Sam Houston Math Science & Technology Center,Engineering,15,3.8,3,4,1
+138,Conroy,McLaren,Multicultural,Male,Freshman,Sharpstown High School,Fashion,10,3.1,1,4,0
+139,Sergio,Wooldridge,Hispanic/Latino,Genderfluid,Freshman,Stephen F. Austin High School,Fashion,0,2.1,1,4,1
+140,Yardley,Rubery,Hispanic/Latino,Male,Junior,Sam Houston Math Science & Technology Center,Engineering,5,3.9,2,2,1
+141,Oralie,Mawby,Multicultural,Female,Senior,César E. Chávez High School,Entertainment,10,3.7,5,1,0
+142,Chelsae,Cardenoso,Black/African American,Genderfluid,Senior,James Madison High School,Medical,20,3.9,3,1,1
+143,Shanie,Hornbuckle,American Indian/Alaska Native,Female,Freshman,Sharpstown High School,Advertising/marketing,5,2.8,1,2,1
+144,Sim,Treadwell,White,Male,Sophomore,Phillis Wheatley High School,Entertainment,10,2.6,2,3,1
+145,Natalya,Downing,Black/African American,Female,Senior,Carnegie Vanguard High School,Finance,20,3.6,4,1,1
+146,Shoshanna,Brideoke,Black/African American,Female,Junior,James Madison High School,Medical,10,3.4,4,5+,1
+147,Darice,Thomasson,Black/African American,Female,Senior,Jack Yates High School,Entertainment,15,3.8,5,1,1
+148,Morse,Shillington,White,Agender,Freshman,East Early College High School,Advertising/marketing,10,2.2,1,5+,0
+149,Peterus,Leisman,White,Male,Sophomore,Empowerment College Preparatory High School,Medical,5,2.0,2,1,1
+150,Irvin,Sutheran,Multicultural,Male,Sophomore,Phillis Wheatley High School,Finance,20,3.5,1,1,1
+151,Lari,Bayman,Hispanic/Latino,Female,Sophomore,Ross Shaw Sterling High School,Multimedia,0,2.1,2,5+,0
+152,Jacky,Ratnage,American Indian/Alaska Native,Female,Sophomore,Sam Houston Math Science & Technology Center,Multimedia,20,2.8,1,1,1
+153,Minta,Tilby,White,Female,Sophomore,Energy Institute High School,Engineering,20,3.4,2,5+,1
+154,Somerset,Broseman,White,Male,Freshman,Westside High School,Engineering,15,3.0,1,5+,1
+155,Bevin,Bartczak,Asian,Male,Sophomore,Booker T. Washington High School,Fashion,5,2.4,1,5+,1
+156,Jehu,Calrow,Black/African American,Non-binary,Freshman,César E. Chávez High School,Fashion,15,3.7,1,4,0
+157,Colman,Derry,Native Hawaiian/Other Pacific Islander,Genderfluid,Senior,Carnegie Vanguard High School,Engineering,15,3.9,4,4,0
+158,Randall,O'Sherin,White,Male,Senior,James Madison High School,Finance,20,3.6,5,4,0
+159,Gerrilee,Morehall,White,Female,Senior,Stephen P. Waltrip High School,Advertising/marketing,10,2.1,3,5+,0
+160,Tandy,Huws,Black/African American,Agender,Senior,Ross Shaw Sterling High School,Multimedia,15,3.4,3,1,1
+161,Troy,Crennell,Native Hawaiian/Other Pacific Islander,Male,Junior,Challenge Early College High School,Agriculture,10,2.9,1,0,1
+162,Bill,Brittlebank,Native Hawaiian/Other Pacific Islander,Male,Freshman,Phillis Wheatley High School,Advertising/marketing,5,2.3,1,4,1
+163,Margaux,Ninnotti,White,Female,Sophomore,Kashmere High School,Multimedia,10,2.5,2,1,1
+164,Giffie,Di Lucia,Black/African American,Male,Sophomore,Empowerment College Preparatory High School,Agriculture,10,2.3,1,4,0
+165,Agna,Edes,Hispanic/Latino,Polygender,Sophomore,Margaret Long Wisdom High School,Multimedia,5,2.5,2,2,1
+166,Ardis,Snoddin,Hispanic/Latino,Female,Senior,Kashmere High School,Multimedia,0,3.0,4,5+,0
+167,Everett,Annets,Black/African American,Male,Senior,Jack Yates High School,Agriculture,5,2.3,4,5+,1
+168,Johnathon,Odby,Black/African American,Male,Senior,Phillis Wheatley High School,Medical,15,3.3,4,1,1
+169,Teriann,Mityukov,American Indian/Alaska Native,Female,Junior,East Early College High School,Agriculture,10,4.0,1,0,0
+170,Octavia,Lancastle,American Indian/Alaska Native,Female,Freshman,Phillis Wheatley High School,Finance,0,2.4,1,2,1
+171,Quintana,Robertacci,Hispanic/Latino,Female,Freshman,Stephen P. Waltrip High School,Fashion,15,3.8,1,2,0
+172,Abeu,Gogerty,Native Hawaiian/Other Pacific Islander,Male,Sophomore,North Forest High School,Finance,15,3.4,1,2,0
+173,Alvis,Christescu,Black/African American,Male,Freshman,Energy Institute High School,Education,20,3.0,1,3,1
+174,Dodie,Edney,Multicultural,Female,Junior,Eastwood Academy,Finance,5,3.0,2,3,1
+175,Theresina,Burchall,Black/African American,Female,Freshman,East Early College High School,Agriculture,15,4.0,1,3,1
+176,Quintilla,Hayward,White,Female,Freshman,Bellaire High School,Engineering,15,3.8,1,2,0
+177,Leicester,Cargenven,Multicultural,Male,Junior,Carnegie Vanguard High School,Engineering,10,3.5,2,5+,1
+178,Hoebart,Vink,Native Hawaiian/Other Pacific Islander,Male,Freshman,Eastwood Academy,Engineering,10,2.8,2,1,0
+179,Darrick,Darnell,Black/African American,Male,Freshman,East Early College High School,Advertising/marketing,5,2.2,1,4,1
+180,Stoddard,Draaisma,American Indian/Alaska Native,Female,Sophomore,Evan E. Worthing High School,Fashion,15,2.9,1,0,0
+181,Lacee,Risborough,White,Genderqueer,Sophomore,Challenge Early College High School,Fashion,0,2.1,1,1,0
+182,Barron,O'Connell,Black/African American,Male,Freshman,Jack Yates High School,Agriculture,5,3.3,1,2,1
+183,Jed,Garnham,Black/African American,Male,Sophomore,Booker T. Washington High School,Fashion,15,3.8,2,5+,1
+184,Niko,Mizen,Hispanic/Latino,Non-binary,Junior,Evan E. Worthing High School,Education,5,2.1,3,1,1
+185,Stephenie,Penelli,Asian,Genderqueer,Junior,Northside High School,Entertainment,15,3.4,3,1,1
+186,Mead,McCrisken,American Indian/Alaska Native,Female,Junior,Sharpstown High School,Education,15,3.8,4,5+,1
+187,Horten,Tweedle,American Indian/Alaska Native,Male,Junior,Westside High School,Fashion,5,2.3,2,1,1
+188,Clyde,Revie,Hispanic/Latino,Male,Junior,Bellaire High School,Entertainment,15,3.2,1,1,1
+189,Minta,Carlton,Black/African American,Female,Senior,Booker T. Washington High School,Advertising/marketing,10,2.0,3,5+,1
+190,Wit,Crassweller,White,Male,Junior,César E. Chávez High School,Engineering,0,3.7,3,3,0
+191,Dalston,Ollander,White,Male,Freshman,Stephen F. Austin High School,Education,10,3.2,1,4,0
+192,Thorsten,Bouskill,Hispanic/Latino,Male,Freshman,Carnegie Vanguard High School,Finance,15,3.8,2,2,1
+193,Angelina,Cooksey,Black/African American,Female,Senior,Westbury High School,Engineering,20,3.1,4,2,1
+194,Julita,Haydock,Native Hawaiian/Other Pacific Islander,Female,Senior,Westside High School,Entertainment,10,2.6,2,2,0
+195,Eberhard,Britian,Hispanic/Latino,Male,Sophomore,Energy Institute High School,Agriculture,0,3.0,1,0,0
+196,Maxie,De Ambrosi,Hispanic/Latino,Female,Senior,East Early College High School,Agriculture,10,3.4,4,0,1
+197,Jaye,Mallen,White,Male,Sophomore,Sam Houston Math Science & Technology Center,Finance,10,3.2,1,3,0
+198,Juliet,Lord,Native Hawaiian/Other Pacific Islander,Female,Sophomore,Bellaire High School,Medical,20,3.8,3,0,1
+199,Sonnie,Bordes,Hispanic/Latino,Female,Senior,Ebbert L. Furr High School,Advertising/marketing,20,2.4,4,5+,1
+200,Kristos,Messam,Hispanic/Latino,Male,Junior,Sam Houston Math Science & Technology Center,Education,10,2.9,2,1,1
+201,Cassandra,Cleaves,American Indian/Alaska Native,Female,Freshman,Mirabeau B. Lamar High School,Fashion,10,3.7,1,5+,1
+202,Arman,Cringle,Black/African American,Male,Freshman,Carnegie Vanguard High School,Education,10,3.0,1,0,1
+203,Marcie,Mabbutt,American Indian/Alaska Native,Female,Senior,North Forest High School,Agriculture,20,2.8,5,0,0
+204,Abdel,Pennetta,Hispanic/Latino,Male,Sophomore,Booker T. Washington High School,Engineering,20,2.6,2,2,1
+205,Sylvester,Taffrey,Multicultural,Male,Senior,Westside High School,Finance,20,2.2,6,1,0
+206,Lacie,Adderson,White,Female,Junior,Empowerment College Preparatory High School,Fashion,10,3.8,3,3,1
+207,Ibrahim,Sleit,Multicultural,Male,Freshman,César E. Chávez High School,Medical,15,4.0,1,1,1
+208,Inigo,Milhench,White,Male,Junior,Scarborough High School,Finance,5,2.3,5,3,1
+209,Ronda,Petyankin,Multicultural,Female,Freshman,Carnegie Vanguard High School,Entertainment,0,3.5,1,2,1
+210,Corene,Mc Gorley,Multicultural,Female,Junior,Margaret Long Wisdom High School,Education,10,2.0,2,5+,1
+211,Florida,Brastead,Hispanic/Latino,Female,Senior,Empowerment College Preparatory High School,Agriculture,20,3.5,4,3,1
+212,Leigh,Hallsworth,White,Male,Sophomore,Ross Shaw Sterling High School,Agriculture,10,3.8,1,3,0
+213,Ellen,Penfold,Hispanic/Latino,Female,Junior,North Forest High School,Agriculture,10,2.6,3,0,0
+214,Arluene,Jessop,White,Female,Senior,James Madison High School,Medical,5,2.2,4,0,1
+215,Sigrid,Tynemouth,Hispanic/Latino,Female,Freshman,Kashmere High School,Multimedia,5,2.5,1,0,0
+216,Starlene,Bever,Asian,Bigender,Sophomore,Bellaire High School,Education,5,2.3,2,0,0
+217,Belvia,Josebury,Asian,Female,Senior,Jack Yates High School,Medical,20,3.5,5,4,0
+218,Kali,Jancic,Multicultural,Female,Sophomore,Empowerment College Preparatory High School,Medical,5,2.2,2,5+,1
+219,Toddy,Bryer,Hispanic/Latino,Non-binary,Senior,Charles H. Milby High School,Finance,20,3.7,5,2,1
+220,Lauryn,Du Fray,Hispanic/Latino,Female,Junior,Westside High School,Finance,5,2.0,3,0,1
+221,Julian,Labin,Black/African American,Male,Senior,Jack Yates High School,Engineering,15,3.8,4,1,1
+222,Barnebas,Bresnen,Multicultural,Male,Junior,Challenge Early College High School,Education,5,3.7,4,5+,1
+223,Shayla,Joss,White,Female,Freshman,North Forest High School,Education,5,3.3,1,2,0
+224,Beverie,Wornum,White,Female,Freshman,Energy Institute High School,Engineering,0,2.5,1,5+,0
+225,Skell,Ditzel,American Indian/Alaska Native,Male,Junior,Jack Yates High School,Agriculture,5,2.1,2,0,0
+226,Stefano,Fiorentino,White,Male,Senior,Stephen F. Austin High School,Agriculture,15,3.7,2,0,0
+227,Evan,Davys,White,Genderfluid,Freshman,Ross Shaw Sterling High School,Education,15,3.8,1,4,1
+228,Audrey,Younghusband,Asian,Genderqueer,Senior,Northside High School,Finance,15,3.6,4,2,0
+229,Anastassia,Daspar,Black/African American,Female,Senior,East Early College High School,Agriculture,15,4.0,4,3,0
+230,Berty,Boundy,Black/African American,Male,Sophomore,James Madison High School,Advertising/marketing,5,2.6,1,4,1
+231,Pamelina,Mannie,Hispanic/Latino,Female,Freshman,Kashmere High School,Entertainment,15,3.6,1,5+,1
+232,Stevena,Luce,American Indian/Alaska Native,Female,Freshman,César E. Chávez High School,Entertainment,10,2.8,2,0,0
+233,Reade,Rattenberie,Black/African American,Male,Junior,Charles H. Milby High School,Education,10,3.6,3,0,1
+234,Cesaro,Spawforth,White,Male,Freshman,Ebbert L. Furr High School,Finance,15,4.0,1,4,1
+235,Jephthah,Botfield,Asian,Male,Sophomore,Sharpstown High School,Multimedia,0,2.4,2,1,0
+236,Manuel,Baraja,White,Male,Sophomore,Westside High School,Multimedia,0,2.9,3,1,1
+237,Matthieu,Sealey,Hispanic/Latino,Male,Junior,César E. Chávez High School,Engineering,10,3.8,3,3,0
+238,Leonanie,Hoppner,Asian,Female,Junior,Eastwood Academy,Finance,15,3.6,2,3,1
+239,Rina,Lefwich,American Indian/Alaska Native,Female,Freshman,Westside High School,Advertising/marketing,0,2.9,2,3,1
+240,Jervis,Constantinou,Black/African American,Male,Junior,North Forest High School,Medical,5,2.3,1,4,1
+241,Odette,Youson,Native Hawaiian/Other Pacific Islander,Female,Freshman,Booker T. Washington High School,Finance,5,2.2,1,3,1
+242,Kathy,Seiffert,Asian,Female,Freshman,Westbury High School,Fashion,5,2.1,1,1,0
+243,Lee,Guillond,White,Female,Freshman,Stephen F. Austin High School,Engineering,0,3.2,1,3,1
+244,Caro,O' Driscoll,Hispanic/Latino,Female,Junior,James Madison High School,Advertising/marketing,10,3.9,3,2,0
+245,Justina,Wind,White,Female,Freshman,Booker T. Washington High School,Medical,5,2.5,2,1,1
+246,Gradey,Docherty,Hispanic/Latino,Bigender,Freshman,Challenge Early College High School,Entertainment,0,2.0,1,1,1
+247,Bebe,Collison,White,Female,Junior,Scarborough High School,Engineering,0,2.3,4,3,1
+248,Wells,Bracci,Black/African American,Male,Sophomore,Margaret Long Wisdom High School,Education,15,3.5,2,1,1
+249,Margi,Bishop,Native Hawaiian/Other Pacific Islander,Female,Senior,Kashmere High School,Advertising/marketing,10,2.3,3,5+,0
+250,Anjanette,Espine,Asian,Female,Senior,Empowerment College Preparatory High School,Agriculture,15,3.8,3,1,1
+251,Aube,Chooter,Black/African American,Male,Junior,Bellaire High School,Engineering,0,2.0,2,3,1
+252,Allx,Ilive,White,Female,Junior,Ebbert L. Furr High School,Finance,0,2.1,4,3,1
+253,Bailey,Sor,Black/African American,Male,Junior,César E. Chávez High School,Fashion,15,3.8,2,5+,1
+254,Lynne,Duffield,Hispanic/Latino,Female,Junior,James Madison High School,Finance,5,2.6,3,4,1
+255,Katinka,Tellenbrok,Multicultural,Female,Sophomore,Kashmere High School,Medical,0,3.5,1,1,1
+256,Ladonna,Pendrich,Black/African American,Female,Sophomore,Challenge Early College High School,Medical,0,2.0,2,3,1
+257,Minnie,Potbury,Hispanic/Latino,Female,Freshman,Westbury High School,Advertising/marketing,0,3.4,1,0,1
+258,Nannie,Arbon,White,Female,Junior,César E. Chávez High School,Engineering,5,2.6,3,2,0
+259,Beck,Rothera,Native Hawaiian/Other Pacific Islander,Male,Sophomore,Challenge Early College High School,Education,10,3.5,2,2,0
+260,Bart,Jahns,White,Male,Senior,Challenge Early College High School,Engineering,10,2.5,5,2,1
+261,Cathryn,Davioud,American Indian/Alaska Native,Female,Freshman,Westbury High School,Engineering,20,3.1,1,3,0
+262,Lucine,Bustin,Native Hawaiian/Other Pacific Islander,Female,Freshman,Stephen P. Waltrip High School,Advertising/marketing,15,3.8,1,1,1
+263,Ettie,Vanyashin,Black/African American,Female,Freshman,Carnegie Vanguard High School,Fashion,0,3.1,1,4,0
+264,Dolores,Renackowna,Native Hawaiian/Other Pacific Islander,Female,Junior,Charles H. Milby High School,Education,0,2.1,3,0,0
+265,Demetria,Kaliszewski,Hispanic/Latino,Bigender,Sophomore,East Early College High School,Agriculture,15,2.9,1,0,0
+266,Tresa,Bernasek,Black/African American,Female,Freshman,Ross Shaw Sterling High School,Fashion,5,2.3,1,1,1
+267,Daisey,Guenther,Black/African American,Female,Sophomore,James Madison High School,Education,5,2.2,1,3,1
+268,Drucy,Meeny,Hispanic/Latino,Female,Freshman,Ebbert L. Furr High School,Fashion,15,4.0,1,2,1
+269,Ingrim,Osmint,Hispanic/Latino,Genderqueer,Senior,Westside High School,Agriculture,10,3.1,6,1,1
+270,Darrin,Stapleford,White,Polygender,Senior,Sharpstown High School,Medical,20,3.2,2,2,0
+271,Tarah,Aspey,Asian,Female,Junior,Northside High School,Advertising/marketing,5,2.4,3,5+,0
+272,Karla,Gurton,Hispanic/Latino,Bigender,Sophomore,Northside High School,Agriculture,0,3.4,2,0,1
+273,Lorain,Kob,Asian,Female,Senior,Booker T. Washington High School,Multimedia,15,3.9,4,1,1
+274,Pavia,Rault,Native Hawaiian/Other Pacific Islander,Polygender,Junior,Phillis Wheatley High School,Advertising/marketing,10,3.1,3,5+,0
+275,Janel,Blackford,Asian,Female,Freshman,Energy Institute High School,Finance,0,3.0,1,3,0
+276,Gianna,Apdell,Hispanic/Latino,Female,Sophomore,James Madison High School,Engineering,15,3.6,2,5+,1
+277,Ber,Mansell,Black/African American,Male,Senior,Scarborough High School,Advertising/marketing,0,3.0,2,5+,1
+278,Royce,Pestell,White,Male,Sophomore,Sharpstown High School,Multimedia,0,2.7,1,1,1
+279,Claudina,Metham,Black/African American,Female,Sophomore,Phillis Wheatley High School,Education,5,2.0,2,2,1
+280,Gianna,Blanch,Native Hawaiian/Other Pacific Islander,Female,Senior,Westside High School,Finance,5,2.0,3,2,1
+281,Rosene,Wellfare,Asian,Polygender,Senior,Heights High School,Education,20,3.3,3,0,1
+282,Duky,Mardee,Black/African American,Male,Sophomore,North Forest High School,Engineering,5,2.4,2,0,1
+283,Chloette,Hann,White,Female,Junior,Heights High School,Multimedia,10,3.9,1,3,0
+284,Kassey,Madeley,Hispanic/Latino,Female,Sophomore,Carnegie Vanguard High School,Medical,5,2.0,3,3,1
+285,Janis,Fury,White,Female,Junior,Charles H. Milby High School,Medical,10,2.6,1,5+,1
+286,Gerry,Mickleborough,White,Female,Junior,Mirabeau B. Lamar High School,Education,10,3.8,3,5+,1
+287,Kiersten,Girodon,American Indian/Alaska Native,Female,Junior,Booker T. Washington High School,Multimedia,5,2.6,5,2,0
+288,Alfie,Grene,American Indian/Alaska Native,Female,Freshman,Carnegie Vanguard High School,Multimedia,0,3.7,1,5+,0
+289,Gerardo,Worboys,American Indian/Alaska Native,Polygender,Junior,Scarborough High School,Medical,15,3.6,1,4,1
+290,Margot,Harkus,Native Hawaiian/Other Pacific Islander,Female,Sophomore,Eastwood Academy,Advertising/marketing,5,2.4,2,2,0
+291,Debee,Duligal,White,Female,Junior,Stephen P. Waltrip High School,Fashion,10,2.8,4,2,0
+292,Chandal,Huxham,Multicultural,Genderfluid,Sophomore,Energy Institute High School,Medical,10,3.0,2,1,0
+293,Tracey,Franey,American Indian/Alaska Native,Male,Junior,Ebbert L. Furr High School,Multimedia,15,3.9,3,1,0
+294,Glendon,McArd,Black/African American,Male,Senior,Westside High School,Agriculture,15,4.0,2,4,1
+295,Engracia,Robelet,Hispanic/Latino,Female,Junior,Jack Yates High School,Medical,0,2.1,2,4,0
+296,Dannie,Maddie,Hispanic/Latino,Female,Sophomore,North Forest High School,Medical,10,3.7,2,4,0
+297,Horten,Merton,Black/African American,Male,Senior,Energy Institute High School,Engineering,10,2.6,6,5+,1
+298,Ximenes,Upton,Hispanic/Latino,Male,Senior,Ross Shaw Sterling High School,Entertainment,20,2.8,4,1,1
+299,Finn,Exter,White,Male,Sophomore,Sharpstown High School,Fashion,5,2.1,1,1,1
+300,Huntley,Byrch,White,Male,Senior,Booker T. Washington High School,Fashion,0,2.0,4,3,1
+301,Gerladina,Pryke,Multicultural,Female,Sophomore,East Early College High School,Agriculture,15,3.9,2,5+,0
+302,Ingemar,Wontner,White,Male,Senior,James Madison High School,Education,5,2.0,5,5+,1
+303,Augustine,Waszkiewicz,Multicultural,Female,Junior,Evan E. Worthing High School,Finance,0,2.0,4,1,0
+304,Dorine,Cowtherd,Hispanic/Latino,Female,Senior,James Madison High School,Engineering,15,4.0,4,5+,1
+305,Even,Bulfoot,Asian,Male,Freshman,Scarborough High School,Medical,20,3.4,1,5+,0
+306,Vonnie,Rhymer,Hispanic/Latino,Female,Sophomore,East Early College High School,Engineering,5,2.0,2,5+,1
+307,Zachery,Antosik,Black/African American,Male,Junior,Westbury High School,Advertising/marketing,15,4.0,2,0,1
+308,Ann-marie,Doodson,Black/African American,Female,Senior,Jack Yates High School,Agriculture,10,3.8,4,0,1
+309,Leandra,Crimin,White,Female,Freshman,Heights High School,Multimedia,0,2.4,1,1,0
+310,Carina,Loachhead,Native Hawaiian/Other Pacific Islander,Female,Freshman,Bellaire High School,Engineering,0,2.7,1,1,1
+311,Augustin,Lainton,Hispanic/Latino,Male,Senior,Eastwood Academy,Medical,10,3.9,4,3,1
+312,Heloise,Penna,Hispanic/Latino,Female,Freshman,Margaret Long Wisdom High School,Education,0,2.8,2,5+,0
+313,Cris,Whannel,Hispanic/Latino,Genderqueer,Sophomore,César E. Chávez High School,Multimedia,5,2.1,2,1,1
+314,Camala,Salack,Hispanic/Latino,Female,Junior,Sam Houston Math Science & Technology Center,Medical,10,4.0,3,5+,0
+315,Westley,McGaraghan,White,Male,Freshman,Phillis Wheatley High School,Agriculture,0,2.8,2,0,0
+316,Nial,Topham,Multicultural,Male,Freshman,César E. Chávez High School,Multimedia,15,4.0,1,1,1
+317,Jennifer,Arnold,White,Genderfluid,Junior,North Forest High School,Multimedia,10,3.5,3,1,1
+318,Wyn,Browning,American Indian/Alaska Native,Male,Senior,Scarborough High School,Advertising/marketing,20,3.8,4,4,1
+319,Nicolea,Empringham,Black/African American,Female,Junior,Eastwood Academy,Advertising/marketing,10,3.7,1,0,1
+320,Liam,Stickel,White,Male,Junior,Charles H. Milby High School,Education,10,2.1,4,2,1
+321,Conni,Madrell,Asian,Agender,Junior,Northside High School,Engineering,0,2.9,1,5+,1
+322,Gilemette,Wolfindale,White,Female,Senior,Mirabeau B. Lamar High School,Finance,15,4.0,5,4,1
+323,Hildegarde,Cray,Black/African American,Female,Sophomore,Eastwood Academy,Fashion,10,3.3,2,1,1
+324,Liana,Dunniom,Hispanic/Latino,Female,Junior,Sharpstown High School,Agriculture,10,2.0,4,0,1
+325,Leticia,Benedict,Asian,Female,Junior,Mirabeau B. Lamar High School,Advertising/marketing,10,2.6,1,5+,1
+326,Raddie,Kilmaster,Hispanic/Latino,Male,Freshman,Heights High School,Fashion,10,2.2,1,4,1
+327,Lamar,Siegertsz,Hispanic/Latino,Male,Freshman,Empowerment College Preparatory High School,Agriculture,5,2.4,1,0,1
+328,Shermy,Bloyes,White,Genderqueer,Freshman,Empowerment College Preparatory High School,Agriculture,20,3.7,2,0,0
+329,Vanya,Hackworth,Black/African American,Female,Sophomore,Ross Shaw Sterling High School,Multimedia,0,2.8,1,4,1
+330,Hogan,Hubbart,Hispanic/Latino,Male,Sophomore,Evan E. Worthing High School,Medical,15,3.8,2,1,1
+331,Melodee,Venediktov,White,Female,Sophomore,Phillis Wheatley High School,Engineering,5,2.4,2,1,1
+332,Mariann,Slowly,White,Female,Junior,Eastwood Academy,Multimedia,5,2.2,2,1,0
+333,Patten,Warren,Hispanic/Latino,Male,Senior,Sharpstown High School,Finance,10,2.4,4,0,0
+334,Hilario,Brigstock,Multicultural,Male,Senior,Carnegie Vanguard High School,Advertising/marketing,0,2.1,5,2,1
+335,Jeffie,Gleeson,Asian,Male,Senior,Northside High School,Finance,10,2.1,3,5+,1
+336,Odille,Fumagalli,Multicultural,Female,Freshman,Kashmere High School,Engineering,5,2.2,1,5+,1
+337,Rakel,Plante,Black/African American,Female,Sophomore,East Early College High School,Agriculture,5,2.5,3,2,1
+338,Mark,Bacup,Hispanic/Latino,Male,Junior,Mirabeau B. Lamar High School,Finance,15,4.0,4,4,1
+339,Whitney,Ghion,Black/African American,Female,Sophomore,Margaret Long Wisdom High School,Engineering,5,2.4,2,3,1
+340,Ignaz,Kristufek,Black/African American,Male,Freshman,Northside High School,Finance,10,2.6,1,1,1
+341,Emmaline,Maior,Black/African American,Female,Freshman,Energy Institute High School,Engineering,0,3.6,2,4,1
+342,Jane,Paoletti,Asian,Female,Senior,Stephen P. Waltrip High School,Medical,10,2.7,4,4,1
+343,Sergio,Tredger,White,Male,Senior,Empowerment College Preparatory High School,Agriculture,10,4.0,5,0,0
+344,Zedekiah,Viner,White,Male,Freshman,Northside High School,Engineering,0,3.1,1,3,1
+345,Pancho,Barrus,Hispanic/Latino,Male,Freshman,North Forest High School,Education,0,3.0,1,5+,0
+346,Harland,Mazin,Black/African American,Genderfluid,Junior,Jack Yates High School,Engineering,0,2.5,2,1,1
+347,Calley,Gavozzi,Hispanic/Latino,Female,Freshman,Heights High School,Agriculture,10,2.3,1,2,0
+348,Brigitte,Howell,Multicultural,Female,Senior,Sam Houston Math Science & Technology Center,Advertising/marketing,15,2.9,5,2,1
+349,Lorenzo,Ortzen,White,Male,Sophomore,East Early College High School,Agriculture,10,2.8,1,1,0
+350,Harlie,Geraud,Hispanic/Latino,Female,Senior,Empowerment College Preparatory High School,Agriculture,15,3.4,2,0,1
+351,Yorke,Gorrie,Multicultural,Male,Senior,Sharpstown High School,Multimedia,20,4.0,4,1,0
+352,Redford,Nemchinov,White,Male,Junior,Northside High School,Agriculture,5,3.4,2,0,1
+353,Anitra,Drinkale,Hispanic/Latino,Female,Junior,Challenge Early College High School,Advertising/marketing,0,2.5,4,1,1
+354,Steward,Askell,Native Hawaiian/Other Pacific Islander,Male,Freshman,James Madison High School,Fashion,0,2.6,1,0,0
+355,Ulrikaumeko,Noke,Multicultural,Female,Sophomore,Carnegie Vanguard High School,Education,0,2.0,2,2,0
+356,Hussein,Vivash,Multicultural,Male,Junior,Charles H. Milby High School,Agriculture,10,2.4,4,0,1
+357,Garwin,Flintoffe,Multicultural,Male,Sophomore,Northside High School,Multimedia,0,3.3,3,5+,0
+358,Joshua,Skiggs,White,Bigender,Freshman,Mirabeau B. Lamar High School,Education,0,2.4,1,0,0
+359,Kean,Keetch,White,Male,Freshman,Stephen F. Austin High School,Advertising/marketing,5,3.0,1,0,0
+360,Braden,Charley,American Indian/Alaska Native,Male,Junior,Evan E. Worthing High School,Advertising/marketing,5,2.4,4,1,1
+361,Noell,Wringe,Black/African American,Female,Sophomore,James Madison High School,Advertising/marketing,5,2.0,2,1,1
+362,Jenni,Baus,American Indian/Alaska Native,Female,Senior,James Madison High School,Agriculture,20,3.4,4,0,0
+363,Bernete,Newey,White,Female,Freshman,Stephen F. Austin High School,Agriculture,15,3.7,1,0,1
+364,Betteann,Saggs,Hispanic/Latino,Female,Sophomore,Stephen F. Austin High School,Multimedia,20,3.6,1,0,1
+365,Filip,Tranckle,White,Male,Junior,Westbury High School,Finance,10,2.3,3,2,0
+366,Jeanette,Whapple,Hispanic/Latino,Female,Sophomore,Challenge Early College High School,Agriculture,5,2.7,2,4,0
+367,Shina,Woodford,White,Female,Junior,Stephen P. Waltrip High School,Medical,20,2.8,5,3,1
+368,Felipe,Limmer,Native Hawaiian/Other Pacific Islander,Male,Junior,Westside High School,Agriculture,0,2.8,4,4,1
+369,Bab,Bulger,White,Female,Sophomore,Westbury High School,Engineering,20,3.4,1,2,0
+370,Elvyn,Beevor,Black/African American,Male,Junior,Booker T. Washington High School,Education,0,2.5,3,1,1
+371,Gustavus,Towse,White,Male,Junior,Jack Yates High School,Education,5,2.2,4,1,1
+372,Margette,Puddan,Hispanic/Latino,Female,Sophomore,Phillis Wheatley High School,Finance,0,2.5,1,3,1
+373,Cristionna,Tollfree,Black/African American,Female,Senior,Booker T. Washington High School,Multimedia,20,2.6,4,5+,1
+374,Reginauld,Curro,White,Male,Junior,Mirabeau B. Lamar High School,Fashion,20,3.0,3,1,0
+375,Sheridan,Dutchburn,White,Non-binary,Freshman,Jack Yates High School,Medical,20,3.3,1,4,0
+376,Zolly,Edward,Hispanic/Latino,Male,Senior,Margaret Long Wisdom High School,Finance,15,3.6,3,4,1
+377,Tomas,Driffe,Multicultural,Male,Sophomore,North Forest High School,Education,10,2.9,2,2,0
+378,Matt,Moston,Hispanic/Latino,Male,Junior,Ebbert L. Furr High School,Advertising/marketing,20,2.3,4,2,1
+379,Starr,Godain,White,Female,Freshman,Ebbert L. Furr High School,Education,10,2.2,1,4,1
+380,Jocko,Andrioni,White,Male,Freshman,Sam Houston Math Science & Technology Center,Engineering,5,2.1,2,2,0
+381,Claribel,Brand-Hardy,White,Female,Freshman,Phillis Wheatley High School,Education,0,2.2,1,1,0
+382,Bryana,Tutchener,American Indian/Alaska Native,Genderqueer,Senior,Evan E. Worthing High School,Engineering,5,2.6,6,3,0
+383,Ozzy,Kienl,Multicultural,Male,Senior,Westbury High School,Agriculture,0,2.4,5,0,0
+384,Lia,Rathbone,White,Female,Junior,Westbury High School,Finance,10,2.2,4,4,0
+385,Ashlee,Kynsey,Native Hawaiian/Other Pacific Islander,Female,Sophomore,Charles H. Milby High School,Engineering,10,2.9,2,2,1
+386,Dora,Sturzaker,White,Female,Junior,César E. Chávez High School,Advertising/marketing,10,4.0,5,2,1
+387,Giffer,Eltun,Hispanic/Latino,Male,Senior,Stephen F. Austin High School,Multimedia,20,2.3,3,1,0
+388,Madelaine,Fashion,Black/African American,Female,Sophomore,East Early College High School,Education,5,2.1,2,1,1
+389,Ariana,Rouse,White,Female,Sophomore,Stephen F. Austin High School,Engineering,10,2.5,2,4,0
+390,Roddie,Walshe,White,Male,Sophomore,Energy Institute High School,Engineering,0,3.1,2,4,0
+391,Basilio,Shilstone,Hispanic/Latino,Male,Freshman,Sam Houston Math Science & Technology Center,Medical,0,3.3,1,1,0
+392,Chickie,Gabits,Hispanic/Latino,Female,Junior,Margaret Long Wisdom High School,Education,5,2.4,3,1,1
+393,Bronny,Ferran,Black/African American,Male,Junior,Booker T. Washington High School,Engineering,0,2.1,1,5+,1
+394,Jewel,Kinchley,Hispanic/Latino,Female,Freshman,Sam Houston Math Science & Technology Center,Medical,15,3.9,1,1,1
+395,Gwyneth,Moyles,Hispanic/Latino,Female,Senior,Charles H. Milby High School,Medical,10,3.0,4,2,1
+396,Joe,Harrald,White,Male,Senior,Stephen P. Waltrip High School,Engineering,15,3.8,4,5+,0
+397,Gayler,Lund,White,Male,Senior,Eastwood Academy,Finance,0,2.6,3,1,0
+398,Kimberlyn,Hilldrup,Hispanic/Latino,Female,Sophomore,Westbury High School,Advertising/marketing,0,2.5,2,2,1
+399,Kiah,Gash,American Indian/Alaska Native,Female,Freshman,Sharpstown High School,Education,5,2.0,1,0,0
+400,Nathan,Camell,Hispanic/Latino,Male,Senior,Westside High School,Fashion,10,2.3,5,5+,1
+401,Orin,Avo,Native Hawaiian/Other Pacific Islander,Male,Freshman,Carnegie Vanguard High School,Fashion,0,2.6,1,2,1
+402,Marika,Redon,White,Female,Sophomore,Sam Houston Math Science & Technology Center,Finance,0,3.1,2,2,1
+403,Marco,Oliphard,Native Hawaiian/Other Pacific Islander,Male,Sophomore,Sam Houston Math Science & Technology Center,Agriculture,20,3.8,2,0,1
+404,Hansiain,Alebrooke,White,Male,Sophomore,Charles H. Milby High School,Entertainment,15,4.0,2,1,1
+405,Timmy,Barlace,Native Hawaiian/Other Pacific Islander,Female,Freshman,César E. Chávez High School,Finance,5,2.9,2,4,1
+406,Wood,Moxham,Black/African American,Male,Sophomore,Jack Yates High School,Education,5,2.2,3,4,1
+407,Francene,Sibborn,Native Hawaiian/Other Pacific Islander,Female,Senior,Westside High School,Engineering,15,4.0,4,1,0
+408,Alanna,Ofen,Multicultural,Female,Freshman,Sam Houston Math Science & Technology Center,Engineering,0,2.3,1,4,0
+409,Caprice,Christophersen,White,Female,Sophomore,Jack Yates High School,Advertising/marketing,0,2.5,3,1,0
+410,Cassius,Wilfling,White,Male,Junior,Sam Houston Math Science & Technology Center,Engineering,5,2.1,3,5+,0
+411,Dannye,Rolse,Hispanic/Latino,Female,Junior,Jack Yates High School,Fashion,10,3.1,3,4,0
+412,Bellanca,Quantrill,White,Female,Junior,Carnegie Vanguard High School,Medical,5,2.0,2,1,1
+413,Stillman,L'Hommee,White,Male,Junior,Westside High School,Medical,5,2.2,3,1,0
+414,Donaugh,Rigby,Asian,Male,Senior,Margaret Long Wisdom High School,Education,20,2.6,3,5+,0
+415,Dode,Reichhardt,Native Hawaiian/Other Pacific Islander,Female,Sophomore,Margaret Long Wisdom High School,Advertising/marketing,0,2.2,2,1,1
+416,Pete,Trevethan,Black/African American,Male,Junior,Energy Institute High School,Engineering,15,3.5,2,4,1
+417,Goldia,Korn,Native Hawaiian/Other Pacific Islander,Bigender,Sophomore,Margaret Long Wisdom High School,Engineering,0,2.1,2,3,0
+418,Bobina,Fernandez,Hispanic/Latino,Female,Freshman,Westbury High School,Medical,10,3.0,1,2,1
+419,Deana,Dominey,Hispanic/Latino,Female,Sophomore,Scarborough High School,Fashion,0,3.0,1,5+,0
+420,Cathryn,Ainsbury,White,Female,Senior,Ross Shaw Sterling High School,Agriculture,10,3.6,4,2,1
+421,Darill,Cretney,White,Polygender,Junior,Challenge Early College High School,Fashion,10,3.8,5,3,0
+422,Theo,Yousef,Multicultural,Female,Junior,Northside High School,Multimedia,0,2.2,2,1,1
+423,Marnie,Sheward,White,Female,Freshman,Margaret Long Wisdom High School,Multimedia,10,2.9,2,1,1
+424,Daphna,Marginson,Black/African American,Female,Junior,James Madison High School,Advertising/marketing,5,2.1,2,3,1
+425,Mandi,Lassey,Asian,Female,Freshman,Bellaire High School,Advertising/marketing,0,2.0,2,4,1
+426,Claudine,Pennicott,Hispanic/Latino,Female,Freshman,Ross Shaw Sterling High School,Medical,0,2.0,1,3,1
+427,Loella,Boerderman,Hispanic/Latino,Female,Freshman,Ebbert L. Furr High School,Fashion,15,3.8,2,2,1
+428,Isabeau,Dukelow,Hispanic/Latino,Female,Sophomore,Evan E. Worthing High School,Finance,5,2.5,2,0,1
+429,Lena,Shillaker,American Indian/Alaska Native,Female,Senior,Challenge Early College High School,Fashion,10,2.9,2,5+,1
+430,Vern,Giraudel,Hispanic/Latino,Male,Junior,Bellaire High School,Education,10,3.7,4,1,0
+431,Nealy,Whiteson,Hispanic/Latino,Male,Sophomore,Northside High School,Agriculture,5,2.6,2,4,1
+432,Jamie,Traves,American Indian/Alaska Native,Female,Junior,Scarborough High School,Agriculture,5,2.6,3,0,0
+433,Foster,Tessyman,Native Hawaiian/Other Pacific Islander,Male,Sophomore,Carnegie Vanguard High School,Multimedia,10,3.9,3,1,1
+434,Hyacinthe,Lowey,Hispanic/Latino,Female,Sophomore,Energy Institute High School,Engineering,5,2.3,1,5+,0
+435,Cedric,Giroldo,Asian,Genderfluid,Junior,Charles H. Milby High School,Fashion,5,2.2,3,1,0
+436,Lacey,Beringer,Asian,Female,Freshman,Mirabeau B. Lamar High School,Multimedia,0,3.7,1,3,0
+437,Jenda,Dionisetti,Hispanic/Latino,Female,Junior,Charles H. Milby High School,Entertainment,0,2.7,3,4,0
+438,Isaak,Garnall,Hispanic/Latino,Male,Sophomore,Carnegie Vanguard High School,Entertainment,10,3.1,2,4,1
+439,Felice,Giaomozzo,Hispanic/Latino,Female,Sophomore,Booker T. Washington High School,Fashion,10,3.7,1,1,0
+440,Markus,Kinavan,Black/African American,Male,Junior,Ebbert L. Furr High School,Advertising/marketing,20,4.0,4,4,1
+441,Coop,Pridham,Multicultural,Male,Junior,Kashmere High School,Entertainment,0,2.6,5,2,1
+442,Meghan,Senechell,Native Hawaiian/Other Pacific Islander,Non-binary,Junior,Evan E. Worthing High School,Medical,10,3.0,4,5+,1
+443,Kirsteni,Nanninini,White,Female,Freshman,Heights High School,Medical,5,2.9,1,3,0
+444,Nicolas,Baccus,White,Male,Sophomore,Ebbert L. Furr High School,Multimedia,10,2.8,1,1,1
+445,Roth,Justice,Native Hawaiian/Other Pacific Islander,Male,Sophomore,Heights High School,Medical,5,2.4,3,2,0
+446,Raquela,Ody,Hispanic/Latino,Female,Sophomore,Westside High School,Fashion,10,3.2,2,1,0
+447,Gerianne,Sconce,Black/African American,Female,Senior,Challenge Early College High School,Education,10,2.2,4,0,0
+448,Greggory,Liell,White,Male,Freshman,Scarborough High School,Finance,5,2.1,1,1,1
+449,Jobi,Ferrige,Black/African American,Female,Sophomore,Stephen F. Austin High School,Fashion,10,3.0,2,3,1
+450,Farris,Vannikov,Asian,Male,Senior,Mirabeau B. Lamar High School,Entertainment,15,3.5,5,1,0
+451,Noam,Blase,Multicultural,Male,Freshman,Westbury High School,Agriculture,0,2.1,1,5+,0
+452,Kerrill,Baus,White,Female,Sophomore,Mirabeau B. Lamar High School,Education,5,2.7,1,0,0
+453,Craggy,Drinkall,Hispanic/Latino,Male,Sophomore,Stephen P. Waltrip High School,Finance,0,2.4,2,5+,1
+454,Orran,Balnave,Asian,Male,Freshman,Heights High School,Fashion,0,3.2,1,4,1
+455,Maryjo,Maddern,Black/African American,Female,Freshman,Westbury High School,Fashion,5,2.2,1,0,1
+456,Colman,Izkovici,Black/African American,Male,Sophomore,Ross Shaw Sterling High School,Fashion,0,3.1,1,0,1
+457,Ada,Heisman,Asian,Female,Senior,Carnegie Vanguard High School,Education,5,2.5,4,3,1
+458,Homerus,Winslett,Black/African American,Male,Senior,Empowerment College Preparatory High School,Agriculture,5,2.2,3,0,1
+459,Wiatt,Firle,American Indian/Alaska Native,Male,Senior,Carnegie Vanguard High School,Advertising/marketing,15,3.9,3,4,1
+460,Paton,Munroe,Hispanic/Latino,Male,Freshman,Stephen F. Austin High School,Fashion,0,3.1,1,0,0
+461,Briano,Phoebe,Black/African American,Male,Sophomore,Energy Institute High School,Advertising/marketing,10,2.7,1,2,1
+462,Terri-jo,Pea,Multicultural,Female,Sophomore,Northside High School,Advertising/marketing,10,2.3,2,5+,0
+463,Goldie,Sabberton,White,Female,Junior,Ebbert L. Furr High School,Medical,10,2.4,4,4,1
+464,Kissie,Temblett,Multicultural,Polygender,Sophomore,Sharpstown High School,Entertainment,20,3.3,1,1,1
+465,Miller,Woodnutt,White,Genderqueer,Senior,Empowerment College Preparatory High School,Agriculture,0,2.7,2,0,1
+466,Alena,Gidley,Hispanic/Latino,Genderqueer,Freshman,East Early College High School,Engineering,20,4.0,1,4,0
+467,Rafaelita,McLae,Black/African American,Female,Senior,Margaret Long Wisdom High School,Agriculture,20,2.6,4,0,1
+468,Denise,Wainscoat,Black/African American,Female,Freshman,Jack Yates High School,Multimedia,10,3.4,1,1,1
+469,Britt,Fuidge,Multicultural,Male,Freshman,Carnegie Vanguard High School,Finance,0,2.6,1,0,1
+470,Gallard,Chattell,Hispanic/Latino,Male,Senior,Jack Yates High School,Medical,10,2.4,5,3,0
+471,Kayla,Grzelewski,White,Genderqueer,Sophomore,Stephen F. Austin High School,Entertainment,5,2.2,2,0,0
+472,Abie,De Michetti,Hispanic/Latino,Male,Freshman,Sam Houston Math Science & Technology Center,Engineering,0,2.2,1,4,0
+473,Netti,Casaroli,Hispanic/Latino,Female,Junior,Stephen P. Waltrip High School,Medical,0,3.8,3,1,0
+474,Kim,Sibbering,White,Female,Junior,Heights High School,Agriculture,10,2.4,3,1,0
+475,Fabio,Silson,Hispanic/Latino,Male,Senior,Sharpstown High School,Finance,20,3.5,3,4,1
+476,Holly,Donaho,Black/African American,Male,Senior,Evan E. Worthing High School,Agriculture,0,3.5,3,4,1
+477,Marion,Tansley,Native Hawaiian/Other Pacific Islander,Male,Freshman,East Early College High School,Multimedia,0,2.9,1,4,0
+478,Javier,Delhanty,Black/African American,Male,Sophomore,Carnegie Vanguard High School,Finance,0,3.7,2,0,1
+479,Margarette,Griffin,Hispanic/Latino,Female,Freshman,East Early College High School,Medical,10,2.2,2,5+,1
+480,Adriena,Farmar,American Indian/Alaska Native,Female,Sophomore,Ebbert L. Furr High School,Agriculture,5,2.1,2,5+,0
+481,Rebe,Chadd,White,Female,Junior,Westside High School,Finance,10,2.5,2,4,1
+482,Claudina,Killock,Hispanic/Latino,Female,Junior,César E. Chávez High School,Engineering,5,2.3,3,5+,1
+483,Quillan,Sliney,Black/African American,Male,Junior,Stephen P. Waltrip High School,Agriculture,5,4.0,2,0,1
+484,Katie,Fery,White,Female,Junior,Westbury High School,Entertainment,10,2.7,4,0,1
+485,Christy,Igounet,White,Genderqueer,Freshman,Scarborough High School,Agriculture,10,2.4,1,1,1
+486,Bonnee,Duffrie,Asian,Bigender,Freshman,Carnegie Vanguard High School,Entertainment,5,2.2,2,3,0
+487,Hadley,Noah,White,Male,Senior,Sharpstown High School,Education,5,2.0,3,4,0
+488,Jermayne,Macieja,Multicultural,Male,Freshman,Evan E. Worthing High School,Finance,5,2.4,1,1,0
+489,Dimitri,Ambrogioni,Black/African American,Male,Freshman,Stephen F. Austin High School,Fashion,15,4.0,1,2,0
+490,Karmen,Ewles,Black/African American,Female,Senior,Jack Yates High School,Fashion,15,2.6,3,5+,1
+491,Lucienne,Stickells,White,Female,Senior,Evan E. Worthing High School,Agriculture,10,2.6,5,0,1
+492,Geri,Bachshell,Hispanic/Latino,Male,Sophomore,Stephen F. Austin High School,Medical,0,2.3,2,5+,1
+493,Jarrett,Blain,Multicultural,Male,Junior,Ebbert L. Furr High School,Multimedia,5,2.1,2,1,0
+494,Kirby,Barz,Black/African American,Male,Junior,Westbury High School,Engineering,10,3.4,3,2,1
+495,Issie,Catterick,White,Female,Freshman,Booker T. Washington High School,Engineering,5,2.2,1,5+,0
+496,Reagan,Fillary,Black/African American,Male,Freshman,Westside High School,Multimedia,10,4.0,1,3,1
+497,Nellie,Flohard,Hispanic/Latino,Female,Senior,Northside High School,Multimedia,15,3.7,6,4,0
+498,Dirk,Beviss,White,Male,Sophomore,Bellaire High School,Agriculture,0,3.3,1,0,1
+499,Sam,Klyn,White,Male,Freshman,James Madison High School,Advertising/marketing,5,2.4,1,3,0
+500,Elston,Baldrick,White,Male,Junior,North Forest High School,Fashion,0,3.4,2,2,1
+501,Ham,Linbohm,Hispanic/Latino,Male,Sophomore,Challenge Early College High School,Multimedia,10,3.0,2,5+,1
+502,Haley,Lavington,White,Polygender,Freshman,Stephen P. Waltrip High School,Advertising/marketing,15,3.5,1,3,1
+503,Armstrong,Oulett,White,Male,Freshman,Energy Institute High School,Engineering,5,2.8,1,5+,1
+504,Malva,Burlingame,Hispanic/Latino,Female,Junior,Bellaire High School,Advertising/marketing,10,3.7,1,4,1
+505,Norris,Jon,White,Bigender,Senior,César E. Chávez High School,Finance,15,4.0,3,2,0
+506,Blair,Gorthy,Hispanic/Latino,Polygender,Sophomore,Empowerment College Preparatory High School,Fashion,0,3.6,3,3,0
+507,Eal,Hain,Native Hawaiian/Other Pacific Islander,Male,Junior,Ross Shaw Sterling High School,Agriculture,5,3.9,2,0,1
+508,Miltie,Simanek,White,Male,Sophomore,Westbury High School,Advertising/marketing,10,2.1,1,1,0
+509,Bogey,Stroulger,Hispanic/Latino,Agender,Senior,Stephen F. Austin High School,Fashion,10,3.9,3,3,0
+510,Ebba,Spacey,American Indian/Alaska Native,Female,Junior,Booker T. Washington High School,Multimedia,15,3.9,4,2,1
+511,Lavena,Tubbles,Multicultural,Female,Sophomore,Margaret Long Wisdom High School,Multimedia,10,3.1,2,1,1
+512,Hayes,Ajean,Hispanic/Latino,Male,Sophomore,Westside High School,Advertising/marketing,5,2.0,2,0,0
+513,Geordie,Snookes,American Indian/Alaska Native,Male,Junior,Empowerment College Preparatory High School,Agriculture,20,3.3,2,0,0
+514,Babbette,Stobbie,Hispanic/Latino,Female,Junior,Stephen F. Austin High School,Education,10,3.2,1,2,0
+515,Wilona,Sheaf,White,Female,Freshman,Phillis Wheatley High School,Finance,10,2.2,1,4,1
+516,Lizabeth,Maughan,White,Female,Junior,Charles H. Milby High School,Engineering,5,2.1,5,2,1
+517,Fan,Blazdell,White,Female,Freshman,Margaret Long Wisdom High School,Education,0,3.0,2,3,1
+518,Truman,Farahar,Hispanic/Latino,Male,Senior,North Forest High School,Fashion,20,3.9,5,2,1
+519,Corene,Forrestall,Hispanic/Latino,Female,Freshman,César E. Chávez High School,Entertainment,0,2.2,1,1,1
+520,Hermann,Izakof,Hispanic/Latino,Male,Senior,Heights High School,Agriculture,20,2.4,5,4,1
+521,Tait,Arni,Hispanic/Latino,Male,Sophomore,Westside High School,Medical,5,2.0,2,2,0
+522,Derick,Dorrins,White,Male,Freshman,Carnegie Vanguard High School,Fashion,5,2.2,1,2,1
+523,Austine,Pomfret,Black/African American,Female,Freshman,Booker T. Washington High School,Multimedia,20,4.0,2,2,1
+524,Davina,Letty,White,Female,Junior,Northside High School,Finance,20,4.0,3,5+,1
+525,Simonne,Caddell,Native Hawaiian/Other Pacific Islander,Female,Junior,Phillis Wheatley High School,Education,5,2.0,3,4,1
+526,Gaston,Crighton,White,Male,Junior,Sam Houston Math Science & Technology Center,Education,5,2.3,4,4,1
+527,Ambrosi,Crosgrove,Black/African American,Male,Sophomore,Westbury High School,Multimedia,0,2.4,2,0,1
+528,Hunter,Tocqueville,Asian,Male,Junior,Bellaire High School,Agriculture,10,3.0,3,2,1
+529,Phillie,Childers,Native Hawaiian/Other Pacific Islander,Agender,Junior,Jack Yates High School,Multimedia,10,4.0,4,1,1
+530,Vere,Belcher,Hispanic/Latino,Agender,Junior,Eastwood Academy,Advertising/marketing,5,2.0,3,0,1
+531,Almira,Coole,Hispanic/Latino,Female,Freshman,Ebbert L. Furr High School,Multimedia,0,2.8,1,1,1
+532,Ally,Adamec,American Indian/Alaska Native,Female,Junior,Westbury High School,Agriculture,10,3.6,3,0,0
+533,Guillaume,O'Boyle,Hispanic/Latino,Male,Junior,César E. Chávez High School,Entertainment,5,2.6,2,3,0
+534,Amble,Dries,Multicultural,Male,Freshman,Carnegie Vanguard High School,Medical,15,3.3,1,2,1
+535,Bran,Loudiane,Black/African American,Genderfluid,Freshman,Challenge Early College High School,Multimedia,10,3.8,1,1,1
+536,Virge,Tees,Hispanic/Latino,Male,Junior,Mirabeau B. Lamar High School,Advertising/marketing,15,4.0,3,1,1
+537,Caddric,Windridge,Hispanic/Latino,Male,Freshman,Mirabeau B. Lamar High School,Fashion,10,2.8,2,4,1
+538,Chadwick,Fairchild,Black/African American,Genderqueer,Junior,Northside High School,Entertainment,0,2.4,2,1,1
+539,Gratia,Kemitt,White,Female,Freshman,Charles H. Milby High School,Agriculture,5,2.3,1,5+,1
+540,Bella,Gegay,Black/African American,Bigender,Junior,Heights High School,Advertising/marketing,10,3.0,4,0,0
+541,Melessa,Dedney,Asian,Female,Junior,Scarborough High School,Engineering,0,2.5,5,4,1
+542,Annadiana,Drivers,Hispanic/Latino,Female,Sophomore,Westside High School,Education,10,2.8,1,1,1
+543,Glory,MacChaell,Multicultural,Genderfluid,Sophomore,Empowerment College Preparatory High School,Agriculture,15,3.8,2,1,1
+544,Tara,Wybron,Multicultural,Bigender,Freshman,Mirabeau B. Lamar High School,Advertising/marketing,0,2.6,1,2,0
+545,Leighton,Molder,Hispanic/Latino,Genderfluid,Senior,Westbury High School,Education,15,3.3,3,1,1
+546,Edouard,Risdall,Native Hawaiian/Other Pacific Islander,Male,Junior,East Early College High School,Fashion,0,2.8,5,1,0
+547,Mortie,Baszniak,Black/African American,Male,Sophomore,Energy Institute High School,Engineering,5,2.9,2,5+,1
+548,Emanuele,Gaunson,Hispanic/Latino,Polygender,Sophomore,North Forest High School,Engineering,10,2.4,2,1,1
+549,Rasia,Olivazzi,American Indian/Alaska Native,Female,Senior,Stephen F. Austin High School,Advertising/marketing,20,2.1,2,0,1
+550,Eben,Leser,Asian,Male,Senior,Westbury High School,Finance,20,3.5,6,4,0
+551,Ernaline,Poulden,American Indian/Alaska Native,Female,Freshman,Kashmere High School,Medical,5,2.1,1,0,0
+552,Susannah,Nobriga,White,Non-binary,Freshman,Sharpstown High School,Engineering,10,3.0,1,5+,1
+553,Jerry,Trim,Black/African American,Female,Sophomore,Ross Shaw Sterling High School,Entertainment,5,2.2,2,0,1
+554,Ario,Jacobs,Hispanic/Latino,Male,Sophomore,Stephen P. Waltrip High School,Multimedia,5,2.4,2,1,1
+555,Caryn,Denney,Native Hawaiian/Other Pacific Islander,Female,Senior,Northside High School,Advertising/marketing,20,2.7,3,4,1
+556,Raynor,Halm,Black/African American,Male,Senior,Eastwood Academy,Engineering,10,2.9,4,5+,1
+557,Hymie,Murrigans,American Indian/Alaska Native,Male,Senior,Energy Institute High School,Agriculture,0,2.1,3,0,0
+558,Aksel,Karpychev,Multicultural,Male,Sophomore,Charles H. Milby High School,Finance,5,2.4,1,3,0
+559,Nichol,Cowthard,White,Female,Sophomore,Challenge Early College High School,Advertising/marketing,10,2.8,2,1,1
+560,Darcey,Ickov,Asian,Female,Junior,James Madison High School,Medical,5,2.3,1,5+,1
+561,Blake,Shaxby,Black/African American,Non-binary,Freshman,Carnegie Vanguard High School,Fashion,5,2.4,1,0,1
+562,Darsey,Ciciotti,Asian,Female,Junior,Ross Shaw Sterling High School,Medical,15,2.8,5,2,0
+563,Edsel,Dunning,Hispanic/Latino,Male,Senior,Heights High School,Engineering,20,2.5,5,3,1
+564,Guglielmo,Allsep,White,Male,Senior,Carnegie Vanguard High School,Multimedia,10,2.8,4,3,0
+565,Kasey,Browne,Hispanic/Latino,Female,Junior,Kashmere High School,Entertainment,10,3.1,4,2,1
+566,Vasilis,Lamberti,Asian,Male,Senior,Bellaire High School,Education,10,2.9,2,5+,1
+567,Helen,Synke,Black/African American,Female,Sophomore,Challenge Early College High School,Engineering,5,2.1,2,5+,1
+568,Rochester,Whitchurch,Asian,Male,Sophomore,Stephen F. Austin High School,Fashion,10,3.0,2,5+,0
+569,Eberto,Di Batista,Hispanic/Latino,Male,Junior,Phillis Wheatley High School,Entertainment,10,2.3,3,1,1
+570,Leeann,Roadnight,White,Female,Junior,North Forest High School,Education,5,2.5,3,4,1
+571,Griz,Gregor,White,Male,Freshman,Kashmere High School,Medical,10,2.1,1,1,1
+572,Shelli,Haydon,Black/African American,Female,Senior,North Forest High School,Fashion,20,3.8,5,0,1
+573,Zachary,Mathis,White,Male,Junior,Stephen P. Waltrip High School,Finance,20,3.3,2,5+,0
+574,Ingelbert,Tummasutti,Hispanic/Latino,Male,Sophomore,Jack Yates High School,Advertising/marketing,5,2.2,2,4,1
+575,Evyn,Sarre,Native Hawaiian/Other Pacific Islander,Male,Junior,Carnegie Vanguard High School,Entertainment,5,2.4,5,3,1
+576,Felizio,Irdale,American Indian/Alaska Native,Male,Freshman,Empowerment College Preparatory High School,Agriculture,10,3.5,1,0,0
+577,Brendin,Lescop,White,Male,Senior,Carnegie Vanguard High School,Advertising/marketing,20,2.7,4,4,0
+578,Arvin,Durning,Hispanic/Latino,Polygender,Junior,Carnegie Vanguard High School,Entertainment,10,3.1,1,2,1
+579,Giffie,Youell,White,Male,Junior,Heights High School,Advertising/marketing,10,2.9,3,1,0
+580,Hagan,Brosini,White,Male,Senior,Empowerment College Preparatory High School,Advertising/marketing,20,3.2,3,0,0
+581,Brok,Burles,White,Male,Senior,Westside High School,Agriculture,0,2.8,5,0,0
+582,Hill,Puffett,Hispanic/Latino,Male,Senior,Scarborough High School,Fashion,15,2.4,3,0,0
+583,Lynnet,Reiglar,White,Female,Freshman,Heights High School,Education,15,4.0,1,2,1
+584,Brion,Gransden,White,Male,Junior,Westbury High School,Education,0,3.1,1,3,1
+585,Torey,Pasek,Hispanic/Latino,Male,Sophomore,Scarborough High School,Engineering,0,3.8,2,2,0
+586,Kalindi,Utley,Hispanic/Latino,Agender,Senior,Empowerment College Preparatory High School,Agriculture,10,3.9,2,3,0
+587,Clay,Poone,Hispanic/Latino,Male,Junior,César E. Chávez High School,Entertainment,15,3.9,3,4,1
+588,Tiphany,Waldren,Multicultural,Female,Freshman,Northside High School,Engineering,0,2.1,1,5+,1
+589,Nikaniki,Krikorian,Native Hawaiian/Other Pacific Islander,Female,Sophomore,Westbury High School,Agriculture,0,2.2,1,0,1
+590,Sherwin,Coxall,American Indian/Alaska Native,Male,Senior,Challenge Early College High School,Entertainment,20,2.6,4,2,1
+591,Abraham,Scapens,White,Genderqueer,Senior,Eastwood Academy,Finance,20,3.2,4,3,0
+592,Ara,Masserel,White,Agender,Junior,Charles H. Milby High School,Education,15,3.8,5,0,0
+593,Sal,Godden,White,Male,Junior,Sharpstown High School,Finance,5,2.6,3,5+,0
+594,Randolf,Glanville,White,Male,Sophomore,Mirabeau B. Lamar High School,Medical,0,2.0,2,1,0
+595,Deina,Robus,White,Genderfluid,Junior,Sharpstown High School,Entertainment,10,3.8,3,2,1
+596,Lanie,Saby,White,Male,Freshman,East Early College High School,Agriculture,0,2.5,1,4,0
+597,Shanan,Standing,Asian,Male,Junior,Sharpstown High School,Education,0,3.2,3,1,0
+598,Corty,Finding,Native Hawaiian/Other Pacific Islander,Male,Senior,Stephen F. Austin High School,Fashion,20,3.9,5,3,1
+599,Myrle,Skalls,Hispanic/Latino,Female,Sophomore,Challenge Early College High School,Finance,15,3.7,2,4,1
+600,Hans,Toman,Hispanic/Latino,Male,Sophomore,Sam Houston Math Science & Technology Center,Engineering,0,3.3,1,3,0
+601,Nanice,Smurfit,Hispanic/Latino,Female,Senior,Scarborough High School,Education,10,2.1,4,5+,1
+602,Roddie,Raraty,Hispanic/Latino,Male,Senior,Northside High School,Entertainment,10,3.7,2,1,1
+603,Heindrick,Langman,Hispanic/Latino,Male,Senior,East Early College High School,Fashion,0,2.5,3,2,0
+604,Jonis,Suggate,Native Hawaiian/Other Pacific Islander,Female,Freshman,Stephen F. Austin High School,Education,5,2.5,1,4,1
+605,Sayers,Yendall,Hispanic/Latino,Male,Senior,Phillis Wheatley High School,Engineering,5,2.6,4,4,1
+606,Clim,Bellord,White,Male,Junior,Sam Houston Math Science & Technology Center,Medical,10,2.6,1,4,1
+607,Sydney,Jamary,Black/African American,Female,Junior,Evan E. Worthing High School,Entertainment,5,2.5,3,0,1
+608,Ringo,Guile,Black/African American,Male,Junior,Ross Shaw Sterling High School,Fashion,5,2.5,2,2,1
+609,Judd,Angrock,Hispanic/Latino,Male,Senior,Westbury High School,Advertising/marketing,10,2.4,4,1,1
+610,Thom,Altofts,Black/African American,Male,Sophomore,César E. Chávez High School,Finance,0,2.6,1,4,1
+611,Dyna,Ducrow,Hispanic/Latino,Female,Sophomore,Kashmere High School,Agriculture,20,2.8,2,3,1
+612,Kathie,Rubinowitz,White,Female,Sophomore,Heights High School,Medical,15,3.4,1,5+,1
+613,Darell,Rickertsen,White,Female,Junior,Challenge Early College High School,Agriculture,15,2.1,5,0,1
+614,Ashil,Chavey,Hispanic/Latino,Female,Sophomore,Phillis Wheatley High School,Agriculture,15,3.9,1,0,0
+615,Maressa,Falco,Asian,Genderqueer,Junior,East Early College High School,Advertising/marketing,5,2.7,4,4,1
+616,Torey,Northall,Hispanic/Latino,Bigender,Freshman,Kashmere High School,Medical,0,2.1,1,5+,0
+617,Christian,McCahill,Black/African American,Male,Sophomore,Kashmere High School,Advertising/marketing,0,2.9,2,3,1
+618,Faulkner,Gianinotti,White,Genderfluid,Freshman,Sharpstown High School,Fashion,10,2.1,1,3,1
+619,Connie,Maseyk,American Indian/Alaska Native,Male,Junior,Energy Institute High School,Entertainment,20,3.1,3,1,0
+620,Taddeo,Furze,American Indian/Alaska Native,Male,Freshman,Scarborough High School,Education,0,3.1,1,5+,1
+621,Richie,Tinklin,Black/African American,Male,Sophomore,Sam Houston Math Science & Technology Center,Engineering,5,3.8,2,5+,1
+622,Everard,Beckey,White,Male,Junior,Energy Institute High School,Engineering,5,2.6,2,1,0
+623,Edith,Emmitt,Hispanic/Latino,Female,Sophomore,Booker T. Washington High School,Education,10,3.1,2,4,1
+624,Justino,Trevithick,Hispanic/Latino,Bigender,Freshman,Empowerment College Preparatory High School,Entertainment,15,3.5,1,4,0
+625,Baird,Beaudry,Hispanic/Latino,Male,Freshman,Bellaire High School,Engineering,5,2.8,1,3,1
+626,Aida,Baress,White,Female,Sophomore,Empowerment College Preparatory High School,Entertainment,0,2.6,2,5+,0
+627,Celestina,Frost,Multicultural,Female,Freshman,Margaret Long Wisdom High School,Agriculture,15,3.8,1,0,0
+628,Wallie,Franciskiewicz,Hispanic/Latino,Male,Freshman,Westbury High School,Advertising/marketing,5,2.4,1,4,1
+629,Shurwood,Raymen,Multicultural,Male,Senior,César E. Chávez High School,Advertising/marketing,0,3.3,2,3,1
+630,Crista,O'Cleary,Hispanic/Latino,Female,Junior,Stephen P. Waltrip High School,Engineering,10,3.9,3,4,1
+631,Consalve,Lemasney,Multicultural,Male,Senior,Sam Houston Math Science & Technology Center,Agriculture,5,2.6,4,5+,0
+632,Jonathon,Lattin,White,Male,Junior,Ebbert L. Furr High School,Multimedia,10,3.0,2,4,1
+633,Edward,Chitter,Hispanic/Latino,Male,Senior,James Madison High School,Medical,10,3.8,3,5+,1
+634,Artemus,Hurles,American Indian/Alaska Native,Male,Freshman,Mirabeau B. Lamar High School,Fashion,5,2.1,1,3,0
+635,Moe,Sotworth,Multicultural,Male,Senior,Ross Shaw Sterling High School,Fashion,15,3.6,4,4,0
+636,Thurstan,Hollyland,White,Male,Junior,Mirabeau B. Lamar High School,Entertainment,15,3.9,4,2,1
+637,Rich,Radden,Hispanic/Latino,Male,Senior,Empowerment College Preparatory High School,Agriculture,0,2.1,6,0,1
+638,Trix,Zecchinii,Hispanic/Latino,Female,Senior,Eastwood Academy,Medical,15,3.2,5,4,1
+639,Katherine,Alywin,White,Female,Sophomore,James Madison High School,Multimedia,5,2.1,2,5+,0
+640,Barthel,Chominski,White,Male,Senior,Evan E. Worthing High School,Entertainment,15,3.8,4,1,1
+641,Vittorio,Gossage,Multicultural,Male,Sophomore,César E. Chávez High School,Entertainment,5,3.0,1,2,1
+642,Phaidra,Fardon,Multicultural,Female,Freshman,Scarborough High School,Fashion,5,2.5,2,4,0
+643,Kathryn,Sandhill,Asian,Female,Junior,Bellaire High School,Agriculture,0,2.4,3,3,0
+644,Leena,Premble,Black/African American,Female,Freshman,Stephen F. Austin High School,Advertising/marketing,20,3.7,1,5+,1
+645,Natalee,Greenmon,American Indian/Alaska Native,Female,Junior,Northside High School,Fashion,5,3.5,3,0,1
+646,Marylee,Simonyi,Multicultural,Female,Sophomore,Northside High School,Agriculture,20,3.6,2,2,1
+647,Corette,Bartoszewicz,White,Female,Freshman,Empowerment College Preparatory High School,Fashion,0,2.7,1,4,1
+648,Robinette,Proger,Multicultural,Female,Junior,Stephen F. Austin High School,Finance,15,3.3,5,1,1
+649,Rollo,Cristofori,American Indian/Alaska Native,Male,Senior,East Early College High School,Entertainment,15,3.6,3,1,0
+650,Mignon,Newlove,White,Female,Sophomore,Eastwood Academy,Entertainment,5,2.2,1,2,0
+651,Jamesy,Espadate,Asian,Bigender,Junior,Evan E. Worthing High School,Finance,0,2.5,1,4,1
+652,Jeremy,Worley,Hispanic/Latino,Male,Junior,Stephen P. Waltrip High School,Multimedia,5,2.5,3,1,0
+653,Rosemarie,Halton,Black/African American,Female,Sophomore,Jack Yates High School,Entertainment,20,2.6,2,3,1
+654,Karolina,Presidey,Hispanic/Latino,Female,Junior,Eastwood Academy,Finance,5,3.8,2,3,1
+655,Hussein,Flohard,American Indian/Alaska Native,Male,Freshman,Jack Yates High School,Finance,0,2.9,1,3,0
+656,Rex,Copley,Black/African American,Male,Senior,Jack Yates High School,Engineering,15,2.1,4,2,1
+657,Allyn,Wanjek,Hispanic/Latino,Male,Junior,Ross Shaw Sterling High School,Entertainment,10,4.0,2,2,0
+658,Aeriela,Papes,Hispanic/Latino,Female,Junior,Eastwood Academy,Entertainment,10,3.1,4,1,1
+659,Elmo,Bunton,Hispanic/Latino,Non-binary,Senior,Phillis Wheatley High School,Fashion,20,3.0,4,1,1
+660,Johan,Keningley,Black/African American,Male,Junior,Eastwood Academy,Entertainment,10,2.4,4,5+,1
+661,Wakefield,O'Kennavain,White,Male,Junior,Empowerment College Preparatory High School,Agriculture,15,3.9,1,0,1
+662,Marshall,D'orsay,White,Male,Senior,Kashmere High School,Fashion,0,2.4,2,4,1
+663,Judy,Waszczykowski,Hispanic/Latino,Female,Junior,Westbury High School,Finance,5,2.0,3,3,0
+664,Jessey,Marusyak,Hispanic/Latino,Male,Senior,Northside High School,Fashion,10,3.2,3,5+,1
+665,Wiatt,Langabeer,White,Male,Freshman,Challenge Early College High School,Multimedia,10,3.6,2,1,1
+666,Kellina,Fawssett,Asian,Female,Sophomore,Sam Houston Math Science & Technology Center,Medical,5,2.4,2,2,1
+667,Keslie,MacAless,White,Female,Freshman,Evan E. Worthing High School,Engineering,0,3.9,2,3,1
+668,Elise,Medina,American Indian/Alaska Native,Female,Senior,Ebbert L. Furr High School,Finance,20,3.8,5,3,1
+669,Agata,Ervine,White,Female,Freshman,Sharpstown High School,Agriculture,10,3.8,1,2,1
+670,Falkner,Parfrey,Asian,Male,Freshman,Empowerment College Preparatory High School,Agriculture,5,2.0,1,0,0
+671,Edlin,Heibl,White,Male,Senior,James Madison High School,Agriculture,15,3.8,4,1,0
+672,Julieta,Gregg,Asian,Female,Junior,Carnegie Vanguard High School,Engineering,10,3.2,3,5+,0
+673,Clarice,Andres,Asian,Female,Sophomore,Margaret Long Wisdom High School,Advertising/marketing,5,2.2,1,5+,1
+674,Giffard,Omrod,American Indian/Alaska Native,Male,Junior,East Early College High School,Fashion,15,2.9,1,4,0
+675,Justino,Milbank,American Indian/Alaska Native,Male,Freshman,Challenge Early College High School,Engineering,0,2.5,1,4,0
+676,Joanie,Meech,Hispanic/Latino,Genderfluid,Senior,Sam Houston Math Science & Technology Center,Engineering,10,2.7,3,4,1
+677,Lexine,Farbrace,Black/African American,Female,Sophomore,Stephen P. Waltrip High School,Engineering,0,2.3,2,3,0
+678,Kris,Riggoll,Asian,Female,Sophomore,Heights High School,Education,10,2.4,2,2,1
+679,Edsel,Spurge,Multicultural,Male,Junior,Mirabeau B. Lamar High School,Education,5,2.3,2,4,1
+680,Kass,Petchey,White,Female,Freshman,Bellaire High School,Agriculture,15,3.8,1,5+,0
+681,Andrew,Swigger,Black/African American,Male,Freshman,Carnegie Vanguard High School,Medical,15,4.0,1,0,1
+682,Dacie,Heynen,Black/African American,Female,Junior,Evan E. Worthing High School,Medical,0,2.6,3,3,1
+683,Rori,Glawsop,White,Female,Junior,Ross Shaw Sterling High School,Finance,0,2.9,3,4,1
+684,Eldin,Tanswill,Asian,Bigender,Senior,Stephen P. Waltrip High School,Multimedia,15,3.7,6,1,0
+685,Bibi,Crowcher,Hispanic/Latino,Female,Senior,Westside High School,Multimedia,20,4.0,4,2,1
+686,Gennifer,Riccelli,Asian,Female,Junior,James Madison High School,Agriculture,10,3.6,5,5+,1
+687,Polly,Nevinson,Multicultural,Female,Freshman,Scarborough High School,Medical,5,2.6,1,5+,1
+688,Farand,Tarbox,American Indian/Alaska Native,Female,Sophomore,Charles H. Milby High School,Education,0,2.6,1,5+,1
+689,Wat,Rootham,Hispanic/Latino,Male,Senior,Scarborough High School,Education,20,3.8,3,0,1
+690,Cherice,Nickoll,Native Hawaiian/Other Pacific Islander,Female,Junior,Evan E. Worthing High School,Engineering,10,3.1,4,3,1
+691,Carlina,Kilfeather,White,Female,Freshman,Jack Yates High School,Agriculture,5,2.3,1,4,1
+692,Giustino,Brudenell,White,Male,Sophomore,Stephen F. Austin High School,Medical,10,2.9,3,1,0
+693,Kelsy,Middleditch,Native Hawaiian/Other Pacific Islander,Female,Senior,Energy Institute High School,Entertainment,10,2.1,3,4,0
+694,Arlina,Iglesiaz,Native Hawaiian/Other Pacific Islander,Female,Senior,Sharpstown High School,Agriculture,15,3.9,4,0,1
+695,Caspar,Bilbrooke,Native Hawaiian/Other Pacific Islander,Male,Freshman,Booker T. Washington High School,Medical,15,3.9,1,1,0
+696,Mark,Murrhardt,Hispanic/Latino,Male,Senior,Westbury High School,Education,20,3.8,3,1,1
+697,Clemmie,Quinton,White,Female,Sophomore,East Early College High School,Medical,15,3.8,2,4,0
+698,Harriot,Pemble,Hispanic/Latino,Female,Sophomore,Sharpstown High School,Finance,10,4.0,2,3,1
+699,Lindy,Greenier,American Indian/Alaska Native,Female,Senior,Scarborough High School,Finance,15,3.7,5,2,1
+700,Gorden,Cobley,Hispanic/Latino,Male,Junior,Ebbert L. Furr High School,Medical,0,2.4,3,2,0
+701,Randell,Simyson,Multicultural,Male,Freshman,Challenge Early College High School,Education,0,2.0,1,0,1
+702,Corenda,Acarson,White,Female,Freshman,Westbury High School,Agriculture,5,2.1,1,0,1
+703,Georgianna,Caselli,White,Female,Freshman,Westbury High School,Multimedia,15,3.6,1,1,0
+704,Addy,MacGiffin,Hispanic/Latino,Female,Sophomore,Sharpstown High School,Education,0,2.8,2,4,1
+705,Dina,Aumerle,Hispanic/Latino,Female,Sophomore,Westside High School,Advertising/marketing,15,3.8,2,2,1
+706,Dolley,Readshall,Hispanic/Latino,Female,Freshman,Sam Houston Math Science & Technology Center,Engineering,20,3.6,1,3,0
+707,Christophe,Bockmann,White,Male,Sophomore,César E. Chávez High School,Multimedia,20,2.9,2,4,1
+708,Frayda,Kobpa,Hispanic/Latino,Female,Freshman,Mirabeau B. Lamar High School,Agriculture,10,3.5,2,0,1
+709,Clarine,Mathewes,Asian,Female,Junior,Evan E. Worthing High School,Entertainment,0,2.6,1,2,1
+710,Jillane,Sollam,Black/African American,Non-binary,Freshman,Empowerment College Preparatory High School,Advertising/marketing,10,3.1,1,4,1
+711,Guthry,Cottam,Hispanic/Latino,Male,Sophomore,Northside High School,Multimedia,10,3.6,2,1,0
+712,Anna-diane,Coutts,Hispanic/Latino,Female,Senior,Sam Houston Math Science & Technology Center,Medical,15,3.5,3,2,0
+713,Mathias,Penning,White,Non-binary,Junior,Challenge Early College High School,Finance,5,2.4,3,2,0
+714,Sibylla,Patek,American Indian/Alaska Native,Female,Freshman,Scarborough High School,Finance,15,3.4,1,1,1
+715,Nick,Rudham,Hispanic/Latino,Male,Freshman,Jack Yates High School,Medical,5,2.0,1,1,1
+716,Galina,Guyton,American Indian/Alaska Native,Female,Sophomore,César E. Chávez High School,Engineering,0,2.1,1,1,1
+717,Lorrin,Lindgren,Hispanic/Latino,Female,Senior,Margaret Long Wisdom High School,Engineering,20,3.9,3,3,1
+718,Michel,Ansteys,Hispanic/Latino,Female,Senior,Charles H. Milby High School,Entertainment,10,2.3,5,2,1
+719,Teodorico,Haylor,Asian,Male,Freshman,Mirabeau B. Lamar High School,Finance,15,2.3,2,2,0
+720,Moe,De Carlo,Hispanic/Latino,Male,Freshman,Ross Shaw Sterling High School,Medical,5,2.2,1,2,0
+721,Batholomew,Rockingham,Black/African American,Male,Junior,Westside High School,Finance,0,3.6,2,1,1
+722,Lorrie,Youel,White,Male,Sophomore,East Early College High School,Agriculture,10,3.8,3,3,0
+723,Kassey,Robillard,Black/African American,Female,Senior,Scarborough High School,Entertainment,15,3.2,4,5+,1
+724,Georgeta,Ruhben,White,Female,Senior,Booker T. Washington High School,Multimedia,10,3.9,5,1,1
+725,Flinn,Foucar,Hispanic/Latino,Male,Freshman,Stephen P. Waltrip High School,Engineering,0,2.7,1,2,1
+726,Georgeta,Keems,Hispanic/Latino,Female,Freshman,Mirabeau B. Lamar High School,Entertainment,0,2.3,1,0,1
+727,Gennie,Frizzell,Hispanic/Latino,Female,Senior,César E. Chávez High School,Education,15,3.9,5,4,0
+728,Killy,Banks,Hispanic/Latino,Male,Sophomore,Westbury High School,Education,5,3.1,2,1,0
+729,Roz,Gley,White,Female,Freshman,Eastwood Academy,Advertising/marketing,0,2.6,1,3,1
+730,Saxon,Knight,Black/African American,Male,Freshman,Energy Institute High School,Engineering,0,2.4,1,3,1
+731,Bil,Buckles,Hispanic/Latino,Male,Senior,James Madison High School,Fashion,20,3.1,6,4,1
+732,Son,Glasner,Hispanic/Latino,Male,Junior,Empowerment College Preparatory High School,Agriculture,5,2.6,1,5+,1
+733,Elliot,Finlry,Multicultural,Male,Senior,Empowerment College Preparatory High School,Agriculture,5,2.7,4,2,1
+734,Rebekkah,Whale,Hispanic/Latino,Female,Freshman,Charles H. Milby High School,Fashion,0,3.3,2,2,1
+735,Giavani,Schirach,Asian,Male,Freshman,Sam Houston Math Science & Technology Center,Education,15,3.8,1,2,1
+736,Cherianne,Liffey,White,Female,Sophomore,Challenge Early College High School,Education,10,2.6,2,5+,0
+737,Sergei,Nudds,White,Male,Junior,East Early College High School,Agriculture,10,2.6,3,0,1
+738,Teresita,Fearnside,White,Female,Freshman,Carnegie Vanguard High School,Fashion,10,2.1,1,5+,0
+739,Earle,Smitham,White,Male,Freshman,Jack Yates High School,Education,0,3.2,2,4,1
+740,Hadley,Somersett,Asian,Male,Junior,Ross Shaw Sterling High School,Fashion,5,2.7,3,2,0
+741,Violet,Fost,Hispanic/Latino,Female,Freshman,Carnegie Vanguard High School,Multimedia,0,2.9,2,1,1
+742,Fonzie,Scarsbrook,Hispanic/Latino,Male,Senior,Bellaire High School,Engineering,15,3.5,4,3,1
+743,Tori,Usborn,Native Hawaiian/Other Pacific Islander,Female,Sophomore,Eastwood Academy,Engineering,0,3.0,2,3,1
+744,Cheslie,Gatling,Asian,Female,Junior,Evan E. Worthing High School,Agriculture,10,4.0,4,5+,0
+745,Cindy,Balsom,Hispanic/Latino,Female,Sophomore,James Madison High School,Multimedia,20,3.3,2,3,1
+746,Amandy,Middlehurst,White,Female,Sophomore,Jack Yates High School,Finance,5,2.7,1,2,1
+747,Louis,Spincke,White,Male,Freshman,Eastwood Academy,Finance,10,3.4,1,2,0
+748,Ginger,Nenci,Black/African American,Male,Senior,Energy Institute High School,Fashion,20,3.0,4,4,1
+749,Stacey,Lynam,Hispanic/Latino,Agender,Sophomore,Empowerment College Preparatory High School,Medical,5,2.4,2,3,1
+750,Bernete,Wellsman,White,Female,Freshman,Mirabeau B. Lamar High School,Fashion,0,2.6,2,5+,1
+751,Viviana,Coogan,Black/African American,Female,Senior,Stephen F. Austin High School,Education,15,3.3,4,1,1
+752,Jaimie,Roper,Multicultural,Male,Sophomore,Westbury High School,Fashion,10,2.3,2,5+,1
+753,Pebrook,Hammett,Black/African American,Male,Senior,Empowerment College Preparatory High School,Agriculture,0,3.0,4,4,1
+754,Aaron,Blunn,Native Hawaiian/Other Pacific Islander,Male,Freshman,Mirabeau B. Lamar High School,Education,10,2.9,1,3,0
+755,Inessa,Sykes,Asian,Female,Freshman,Westbury High School,Agriculture,20,4.0,1,4,1
+756,Ari,Corner,Black/African American,Male,Senior,Sam Houston Math Science & Technology Center,Finance,10,2.0,5,0,1
+757,Rowe,Clampett,White,Genderfluid,Junior,North Forest High School,Medical,0,2.6,3,4,0
+758,Dilly,Snowling,Hispanic/Latino,Male,Sophomore,Charles H. Milby High School,Entertainment,5,2.5,1,4,1
+759,Gavan,Sheilds,White,Agender,Junior,Westside High School,Finance,5,2.2,4,2,0
+760,Delainey,Leimster,Black/African American,Non-binary,Freshman,Westbury High School,Fashion,0,3.1,2,0,0
+761,Ansel,Jacobi,White,Male,Sophomore,Empowerment College Preparatory High School,Agriculture,5,2.4,1,0,0
+762,Lazarus,McKeggie,Asian,Male,Junior,Stephen F. Austin High School,Agriculture,0,2.1,3,4,1
+763,Alberta,Hutchence,Hispanic/Latino,Genderfluid,Freshman,Kashmere High School,Education,0,2.5,1,0,1
+764,Sancho,Sculley,Multicultural,Male,Freshman,Challenge Early College High School,Finance,10,2.0,1,0,0
+765,Wilburt,Guillain,Hispanic/Latino,Male,Senior,Bellaire High School,Engineering,20,2.8,4,3,1
+766,Lalo,Wackett,White,Male,Sophomore,Evan E. Worthing High School,Fashion,0,2.6,1,4,0
+767,Hurley,Murrow,Black/African American,Male,Junior,Jack Yates High School,Fashion,15,4.0,3,0,1
+768,Rodrick,Hockell,Hispanic/Latino,Male,Senior,Bellaire High School,Agriculture,10,3.9,2,0,1
+769,Gasper,Cereceres,White,Male,Junior,César E. Chávez High School,Entertainment,10,2.0,5,1,1
+770,Dyna,Taplow,Hispanic/Latino,Female,Junior,Energy Institute High School,Engineering,5,2.4,2,4,1
+771,Georgina,Eymer,Multicultural,Female,Junior,Charles H. Milby High School,Education,5,2.3,3,4,1
+772,Kerwinn,Geerits,White,Male,Sophomore,Northside High School,Engineering,5,2.2,2,3,1
+773,Lenore,Kermannes,Hispanic/Latino,Female,Senior,Booker T. Washington High School,Finance,15,4.0,2,0,0
+774,Sibelle,Charlesworth,Hispanic/Latino,Female,Freshman,East Early College High School,Advertising/marketing,10,3.4,1,4,0
+775,Joell,Calendar,White,Female,Sophomore,Evan E. Worthing High School,Medical,0,2.2,1,0,0
+776,Gothart,Ernke,White,Male,Sophomore,Charles H. Milby High School,Entertainment,20,2.4,2,4,0
+777,Starlin,Lias,White,Female,Sophomore,Kashmere High School,Multimedia,15,3.8,3,1,1
+778,Art,Gavozzi,White,Male,Senior,Mirabeau B. Lamar High School,Education,20,3.0,3,3,1
+779,Andie,Strippel,Hispanic/Latino,Male,Sophomore,Sharpstown High School,Finance,10,3.2,3,2,1
+780,Missie,Pimer,Hispanic/Latino,Female,Senior,Challenge Early College High School,Education,15,4.0,5,0,1
+781,Rogerio,Maharey,Multicultural,Male,Freshman,Kashmere High School,Agriculture,0,2.5,1,0,1
+782,Chance,Senechault,Hispanic/Latino,Male,Senior,Sam Houston Math Science & Technology Center,Engineering,0,2.3,5,5+,0
+783,Raff,Moggan,Asian,Polygender,Senior,Charles H. Milby High School,Finance,15,3.7,3,3,0
+784,Dru,Cuschieri,Black/African American,Male,Sophomore,Northside High School,Fashion,15,3.4,2,0,1
+785,Benedetta,Goadbie,Hispanic/Latino,Female,Senior,Phillis Wheatley High School,Finance,20,3.3,4,4,1
+786,Mariana,Jiggens,Hispanic/Latino,Female,Freshman,James Madison High School,Entertainment,5,2.6,2,1,0
+787,Roddy,Swires,American Indian/Alaska Native,Male,Sophomore,Sam Houston Math Science & Technology Center,Engineering,15,3.6,2,5+,1
+788,Yettie,Beetles,White,Female,Sophomore,Margaret Long Wisdom High School,Agriculture,15,3.5,2,0,1
+789,Rowe,Denial,American Indian/Alaska Native,Non-binary,Freshman,Eastwood Academy,Fashion,0,3.3,1,4,1
+790,Germain,Suttell,Hispanic/Latino,Female,Senior,Evan E. Worthing High School,Education,10,2.5,6,5+,0
+791,Billy,Marcinkus,Black/African American,Female,Senior,Margaret Long Wisdom High School,Advertising/marketing,10,3.6,5,4,1
+792,Kerianne,Stodhart,Native Hawaiian/Other Pacific Islander,Agender,Senior,Empowerment College Preparatory High School,Advertising/marketing,0,2.8,4,5+,1
+793,Ellene,Glavin,White,Female,Freshman,Charles H. Milby High School,Finance,0,2.0,1,1,1
+794,Marissa,Daysh,Asian,Female,Senior,Scarborough High School,Agriculture,10,2.4,3,0,0
+795,Joyce,Brownjohn,White,Female,Junior,Westside High School,Agriculture,10,3.0,2,5+,1
+796,Paten,Bodleigh,Hispanic/Latino,Male,Junior,North Forest High School,Agriculture,5,2.1,3,0,1
+797,Frederico,Edgett,White,Male,Senior,East Early College High School,Agriculture,15,4.0,3,0,1
+798,Grant,Wills,White,Male,Sophomore,Evan E. Worthing High School,Medical,10,3.1,2,4,0
+799,Avrom,Boyington,Asian,Male,Sophomore,Jack Yates High School,Advertising/marketing,5,2.6,2,0,1
+800,Ricki,Caro,White,Female,Sophomore,Eastwood Academy,Entertainment,10,2.7,3,2,1
+801,Tabby,Henkmann,Multicultural,Male,Freshman,Westside High School,Engineering,20,3.4,1,4,1
+802,Teador,Waterson,Native Hawaiian/Other Pacific Islander,Male,Junior,Kashmere High School,Finance,10,2.7,1,3,0
+803,Renelle,Gomm,White,Female,Senior,Phillis Wheatley High School,Agriculture,5,2.4,4,1,1
+804,Oran,Radleigh,Black/African American,Male,Junior,North Forest High School,Entertainment,5,2.2,3,2,1
+805,Balduin,Ambrogiotti,Hispanic/Latino,Male,Senior,Sharpstown High School,Entertainment,15,2.3,2,1,1
+806,Coleman,Lennard,Multicultural,Genderfluid,Freshman,James Madison High School,Entertainment,0,3.5,1,2,1
+807,Izaak,McConnal,Hispanic/Latino,Male,Freshman,Westbury High School,Agriculture,0,2.4,1,0,1
+808,Kriste,Shoreman,White,Female,Freshman,North Forest High School,Agriculture,10,3.5,2,0,0
+809,Olag,Mendez,Native Hawaiian/Other Pacific Islander,Male,Sophomore,Jack Yates High School,Finance,10,2.5,1,4,0
+810,Webster,Fowlds,Hispanic/Latino,Male,Senior,Jack Yates High School,Agriculture,15,3.8,5,1,1
+811,Lynnell,Eccleston,Multicultural,Agender,Senior,Sharpstown High School,Engineering,0,2.9,5,5+,0
+812,Morissa,De Cruz,Multicultural,Female,Senior,Scarborough High School,Medical,20,3.7,4,2,1
+813,Billy,Neasam,Multicultural,Female,Senior,Booker T. Washington High School,Finance,15,3.6,3,4,1
+814,Hewitt,Morgon,Hispanic/Latino,Male,Sophomore,Westbury High School,Multimedia,0,2.3,1,2,0
+815,Kaitlynn,Picknett,Hispanic/Latino,Agender,Sophomore,Stephen F. Austin High School,Agriculture,15,3.7,2,0,1
+816,Elliott,McGurn,Asian,Male,Junior,Westside High School,Fashion,15,2.9,5,1,1
+817,Currie,Judron,Hispanic/Latino,Male,Senior,Booker T. Washington High School,Fashion,20,2.6,4,1,1
+818,Lynda,Gorman,Hispanic/Latino,Female,Junior,Challenge Early College High School,Engineering,15,3.9,4,5+,1
+819,Sephira,Hawkings,American Indian/Alaska Native,Genderfluid,Junior,Westbury High School,Entertainment,10,3.1,5,2,0
+820,Fletcher,Cruddas,Hispanic/Latino,Male,Junior,Challenge Early College High School,Multimedia,0,2.0,5,5+,1
+821,Josy,Obington,Black/African American,Female,Senior,Stephen P. Waltrip High School,Engineering,20,3.1,4,5+,1
+822,Arlyne,Riseborough,American Indian/Alaska Native,Non-binary,Senior,Jack Yates High School,Engineering,5,2.1,4,2,0
+823,Jess,Imlach,Native Hawaiian/Other Pacific Islander,Agender,Junior,Evan E. Worthing High School,Engineering,0,3.2,2,2,1
+824,Roddie,Greasty,Hispanic/Latino,Male,Junior,Kashmere High School,Medical,0,2.2,2,0,1
+825,Lyndel,Curm,Asian,Female,Junior,Kashmere High School,Multimedia,10,3.6,3,1,1
+826,Mervin,Hinchshaw,Hispanic/Latino,Male,Sophomore,Empowerment College Preparatory High School,Advertising/marketing,15,3.9,1,1,1
+827,Germain,Staves,Black/African American,Female,Sophomore,César E. Chávez High School,Finance,5,2.3,2,4,1
+828,Edy,Feldhammer,American Indian/Alaska Native,Female,Sophomore,Charles H. Milby High School,Finance,5,2.4,2,4,0
+829,Inge,Broyd,White,Female,Junior,James Madison High School,Engineering,10,2.0,3,2,1
+830,Tracey,Grassin,Hispanic/Latino,Male,Senior,Scarborough High School,Fashion,20,3.1,3,4,1
+831,Aharon,Guyer,American Indian/Alaska Native,Male,Senior,Booker T. Washington High School,Entertainment,0,2.3,3,0,0
+832,Alonzo,Gannicleff,American Indian/Alaska Native,Male,Sophomore,Heights High School,Agriculture,5,2.7,1,4,0
+833,Franky,Hanburry,Hispanic/Latino,Genderfluid,Senior,Stephen F. Austin High School,Education,20,3.8,5,0,1
+834,Dale,Krzyzowski,American Indian/Alaska Native,Female,Junior,Ebbert L. Furr High School,Engineering,10,3.8,3,1,0
+835,Opaline,Bothen,Hispanic/Latino,Female,Senior,Jack Yates High School,Medical,20,3.2,2,5+,1
+836,Bill,Smaleman,Native Hawaiian/Other Pacific Islander,Male,Senior,Sam Houston Math Science & Technology Center,Medical,10,3.8,5,1,1
+837,Ozzie,Orts,Native Hawaiian/Other Pacific Islander,Male,Freshman,Jack Yates High School,Education,0,2.8,2,3,0
+838,Kathie,Thorndycraft,White,Female,Freshman,Bellaire High School,Education,10,2.6,1,2,1
+839,Buddie,Whichelow,Hispanic/Latino,Male,Junior,Ross Shaw Sterling High School,Advertising/marketing,10,3.0,4,3,1
+840,Jo,Borrow,Black/African American,Male,Senior,Eastwood Academy,Engineering,10,2.2,3,2,0
+841,Elke,Ickowicz,American Indian/Alaska Native,Non-binary,Freshman,Heights High School,Fashion,15,2.9,1,4,1
+842,Dory,Sizeland,Asian,Female,Junior,Empowerment College Preparatory High School,Agriculture,5,2.4,1,0,0
+843,Toiboid,Rosoman,White,Male,Freshman,Challenge Early College High School,Fashion,0,2.9,1,4,1
+844,Seth,Boncoeur,Hispanic/Latino,Male,Freshman,Charles H. Milby High School,Engineering,10,2.6,2,4,0
+845,Jarrad,Simo,Black/African American,Male,Senior,Stephen P. Waltrip High School,Multimedia,20,3.2,4,0,1
+846,Augustin,Eggleston,White,Polygender,Junior,Stephen P. Waltrip High School,Education,20,3.8,4,0,0
+847,Bess,Jaegar,Hispanic/Latino,Female,Senior,James Madison High School,Multimedia,10,2.0,2,3,0
+848,Granny,Feldfisher,Black/African American,Male,Freshman,Charles H. Milby High School,Agriculture,20,2.2,1,0,1
+849,Melba,Sighart,White,Female,Senior,Heights High School,Education,15,3.7,2,5+,1
+850,Beck,Tilson,Black/African American,Male,Junior,Carnegie Vanguard High School,Medical,5,2.4,4,1,1
+851,Susana,Mailes,White,Female,Sophomore,Phillis Wheatley High School,Multimedia,10,3.8,1,4,1
+852,Ethelda,Gallienne,American Indian/Alaska Native,Female,Sophomore,Carnegie Vanguard High School,Engineering,0,3.1,2,5+,1
+853,Stesha,Galey,Hispanic/Latino,Female,Junior,East Early College High School,Fashion,10,3.2,4,3,1
+854,Amelia,Driffe,Black/African American,Female,Senior,Sam Houston Math Science & Technology Center,Multimedia,20,2.6,3,0,1
+855,Thatcher,Schneider,American Indian/Alaska Native,Male,Sophomore,Ebbert L. Furr High School,Agriculture,5,2.6,2,2,1
+856,Mercie,Pashby,White,Female,Junior,Stephen P. Waltrip High School,Education,20,3.8,1,0,1
+857,Darryl,Wolton,Multicultural,Genderqueer,Senior,Energy Institute High School,Fashion,10,3.5,3,2,0
+858,Kalle,Twallin,Black/African American,Non-binary,Freshman,James Madison High School,Fashion,0,2.2,1,1,0
+859,Trenton,Blackbourn,Black/African American,Male,Sophomore,Scarborough High School,Fashion,5,2.2,2,3,1
+860,Saunderson,Cridland,American Indian/Alaska Native,Male,Freshman,Energy Institute High School,Advertising/marketing,15,3.5,1,0,0
+861,Rhodie,Emsley,Hispanic/Latino,Female,Senior,Empowerment College Preparatory High School,Agriculture,15,3.4,4,0,1
+862,Drew,Leyrroyd,American Indian/Alaska Native,Male,Junior,Heights High School,Advertising/marketing,10,3.8,4,2,1
+863,Celina,Mansbridge,White,Female,Sophomore,Empowerment College Preparatory High School,Finance,5,2.2,2,0,1
+864,Dynah,Crumb,Hispanic/Latino,Female,Freshman,Challenge Early College High School,Education,20,3.7,1,4,1
+865,Eugene,Janu,Hispanic/Latino,Genderqueer,Senior,Heights High School,Multimedia,15,3.4,4,5+,1
+866,Sigfrid,Lavens,White,Genderqueer,Sophomore,Heights High School,Medical,15,4.0,2,1,0
+867,Basile,Meysham,Native Hawaiian/Other Pacific Islander,Male,Senior,Westside High School,Multimedia,20,3.6,4,3,1
+868,Anne-marie,Woolham,White,Female,Sophomore,Bellaire High School,Engineering,10,3.1,2,5+,1
+869,Conan,Bruford,White,Male,Senior,Jack Yates High School,Finance,15,3.5,4,2,0
+870,Ginny,Kynvin,Black/African American,Female,Freshman,Sam Houston Math Science & Technology Center,Engineering,5,2.0,1,4,1
+871,Gauthier,Willis,Hispanic/Latino,Male,Junior,Margaret Long Wisdom High School,Advertising/marketing,10,3.6,2,5+,1
+872,Charlie,Graddon,American Indian/Alaska Native,Male,Freshman,Stephen F. Austin High School,Finance,0,2.6,1,5+,1
+873,Nedda,Whitlow,American Indian/Alaska Native,Female,Freshman,Jack Yates High School,Education,0,3.9,1,0,0
+874,Valdemar,Keirl,White,Male,Senior,Stephen P. Waltrip High School,Entertainment,5,2.6,4,2,1
+875,Rab,Scyone,White,Male,Sophomore,Margaret Long Wisdom High School,Medical,0,2.9,2,1,0
+876,Lucie,Mogridge,Hispanic/Latino,Female,Freshman,Empowerment College Preparatory High School,Multimedia,10,2.1,2,0,0
+877,Wesley,Toplis,Hispanic/Latino,Male,Freshman,Heights High School,Entertainment,10,3.6,1,5+,1
+878,Stanton,Taillard,Black/African American,Male,Freshman,Mirabeau B. Lamar High School,Engineering,5,2.2,1,5+,1
+879,Emily,Limbrick,Hispanic/Latino,Female,Freshman,Mirabeau B. Lamar High School,Advertising/marketing,0,2.7,1,1,1
+880,Fonsie,Levin,Black/African American,Male,Freshman,Phillis Wheatley High School,Fashion,0,2.8,1,1,1
+881,Saul,Copozio,Multicultural,Male,Sophomore,Mirabeau B. Lamar High School,Agriculture,15,3.8,2,4,0
+882,Glen,Albany,Hispanic/Latino,Male,Junior,Bellaire High School,Advertising/marketing,5,2.3,1,1,1
+883,Corena,Plet,Hispanic/Latino,Female,Sophomore,Empowerment College Preparatory High School,Finance,20,3.6,2,4,0
+884,Correy,Gauthorpp,Multicultural,Agender,Freshman,Westside High School,Advertising/marketing,10,3.2,1,3,1
+885,Fulton,Caw,Hispanic/Latino,Male,Freshman,Charles H. Milby High School,Engineering,5,2.3,1,4,0
+886,Stephen,Medina,Hispanic/Latino,Male,Junior,Margaret Long Wisdom High School,Education,10,2.9,5,1,1
+887,Paloma,Heistermann,Hispanic/Latino,Female,Freshman,Booker T. Washington High School,Engineering,0,2.7,1,5+,1
+888,Haydon,McKeggie,White,Male,Junior,Westside High School,Engineering,10,2.4,1,4,0
+889,Douglass,Snoday,Black/African American,Genderqueer,Senior,Northside High School,Finance,15,3.6,3,3,1
+890,Regan,Campione,Native Hawaiian/Other Pacific Islander,Female,Freshman,Evan E. Worthing High School,Agriculture,10,2.6,1,0,0
+891,Herbie,Delacroix,Black/African American,Male,Senior,César E. Chávez High School,Finance,20,3.0,4,2,1
+892,Jodee,Gurrado,Asian,Female,Junior,Charles H. Milby High School,Fashion,15,2.7,1,5+,1
+893,Gordy,Glascott,Hispanic/Latino,Male,Senior,Carnegie Vanguard High School,Fashion,0,2.8,4,3,0
+894,Hatti,MacClenan,White,Female,Junior,Sharpstown High School,Fashion,5,2.3,3,5+,0
+895,Juditha,Jorg,White,Female,Junior,North Forest High School,Finance,10,2.8,5,3,0
+896,Rik,Lydon,Black/African American,Male,Freshman,Evan E. Worthing High School,Finance,0,2.1,1,2,1
+897,Wakefield,Paylie,Multicultural,Male,Sophomore,Jack Yates High School,Advertising/marketing,10,2.7,2,0,0
+898,Hieronymus,Harsant,Black/African American,Polygender,Senior,Sam Houston Math Science & Technology Center,Medical,10,2.3,4,5+,1
+899,Tristam,Brockest,Hispanic/Latino,Male,Freshman,James Madison High School,Entertainment,5,2.0,1,2,0
+900,Ransom,Dunston,Black/African American,Male,Junior,Empowerment College Preparatory High School,Fashion,5,2.5,2,3,1
+901,Ahmed,Iwanicki,White,Male,Junior,Heights High School,Engineering,15,3.1,4,4,0
+902,Wally,Broke,Hispanic/Latino,Female,Senior,Mirabeau B. Lamar High School,Entertainment,10,2.9,3,2,0
+903,Sanford,Duigenan,Hispanic/Latino,Genderfluid,Junior,Scarborough High School,Education,5,2.2,3,4,0
+904,Gertrud,Tofful,Native Hawaiian/Other Pacific Islander,Female,Junior,César E. Chávez High School,Multimedia,15,3.7,5,1,0
+905,Honey,Rosbrough,White,Female,Freshman,Eastwood Academy,Education,0,2.7,1,2,0
+906,Artemis,Alfwy,Black/African American,Agender,Senior,César E. Chávez High School,Agriculture,10,2.8,4,0,1
+907,Merridie,Hawton,Black/African American,Female,Senior,Kashmere High School,Agriculture,10,3.6,5,5+,1
+908,Garrett,Forsyth,Asian,Male,Sophomore,Northside High School,Medical,5,2.0,1,1,0
+909,Serena,Grigorushkin,White,Female,Junior,Kashmere High School,Advertising/marketing,5,2.0,1,5+,1
+910,Gil,Luciano,White,Genderqueer,Junior,Challenge Early College High School,Engineering,5,2.2,1,0,1
+911,Bogey,Brewse,Native Hawaiian/Other Pacific Islander,Male,Freshman,Charles H. Milby High School,Education,0,2.2,1,4,1
+912,Arnie,Di Maria,White,Male,Sophomore,Westside High School,Multimedia,0,2.5,2,1,0
+913,Elvina,Hearmon,Asian,Female,Freshman,Booker T. Washington High School,Agriculture,0,2.2,1,0,0
+914,Cherey,De Stoop,White,Female,Senior,Westbury High School,Advertising/marketing,20,3.4,6,0,1
+915,Merwin,Von Welldun,White,Male,Senior,Booker T. Washington High School,Medical,20,3.5,5,4,1
+916,Loutitia,Meach,Hispanic/Latino,Female,Freshman,Empowerment College Preparatory High School,Entertainment,10,3.8,1,5+,1
+917,Lyndy,De Bruin,Hispanic/Latino,Female,Freshman,César E. Chávez High School,Fashion,10,3.7,1,3,1
+918,Ahmed,Demchen,Black/African American,Male,Senior,Kashmere High School,Finance,20,3.1,5,4,1
+919,Rhea,Moore,Hispanic/Latino,Female,Senior,Ebbert L. Furr High School,Advertising/marketing,20,3.9,3,2,1
+920,Scarface,Carcas,Asian,Male,Sophomore,East Early College High School,Education,0,3.0,2,3,0
+921,Seana,Hanse,Hispanic/Latino,Female,Senior,Eastwood Academy,Fashion,15,3.7,4,3,0
+922,Zacharia,McCheyne,White,Male,Senior,Sam Houston Math Science & Technology Center,Multimedia,10,3.1,4,5+,0
+923,Hildegaard,Boutcher,Hispanic/Latino,Female,Freshman,Energy Institute High School,Engineering,0,2.2,2,4,1
+924,Manfred,Handrik,Black/African American,Male,Junior,Challenge Early College High School,Finance,0,3.7,3,0,1
+925,Cherry,Emmot,Native Hawaiian/Other Pacific Islander,Female,Junior,Kashmere High School,Fashion,15,2.4,2,1,0
+926,Fiona,Tissington,Multicultural,Female,Junior,Sam Houston Math Science & Technology Center,Entertainment,10,2.2,3,3,1
+927,Addy,Donat,Hispanic/Latino,Male,Senior,Evan E. Worthing High School,Finance,20,3.3,6,4,1
+928,Theodor,Valance,Multicultural,Male,Freshman,Sharpstown High School,Medical,5,2.0,1,1,0
+929,Martie,Greenham,Hispanic/Latino,Male,Sophomore,Westbury High School,Education,5,2.3,1,4,1
+930,Constantina,Szantho,Hispanic/Latino,Female,Sophomore,Mirabeau B. Lamar High School,Medical,10,2.5,1,5+,1
+931,Blake,Jeeves,White,Female,Sophomore,Stephen P. Waltrip High School,Medical,10,4.0,2,1,0
+932,Magdaia,McVrone,Multicultural,Female,Freshman,Challenge Early College High School,Finance,5,3.5,1,4,1
+933,Barb,Bonham,Native Hawaiian/Other Pacific Islander,Female,Senior,Stephen F. Austin High School,Agriculture,10,3.6,5,1,0
+934,Everard,Karchewski,Black/African American,Male,Freshman,Energy Institute High School,Fashion,0,2.1,1,5+,1
+935,Kiley,Bockin,Native Hawaiian/Other Pacific Islander,Male,Junior,East Early College High School,Education,20,4.0,3,4,0
+936,Charyl,Freestone,Hispanic/Latino,Female,Sophomore,Ebbert L. Furr High School,Agriculture,0,3.0,2,0,1
+937,Wilden,Richley,Black/African American,Male,Junior,Carnegie Vanguard High School,Education,15,3.9,1,3,1
+938,Nanice,Phette,Hispanic/Latino,Female,Junior,Westside High School,Agriculture,0,2.2,2,0,0
+939,Berton,Whorlow,Native Hawaiian/Other Pacific Islander,Male,Junior,North Forest High School,Education,10,3.6,4,5+,1
+940,Darbee,Bernolet,Hispanic/Latino,Male,Freshman,Ross Shaw Sterling High School,Medical,10,3.8,1,4,1
+941,Ilario,Balderson,White,Genderfluid,Senior,Ebbert L. Furr High School,Agriculture,5,2.8,5,0,0
+942,Dimitry,Estable,Native Hawaiian/Other Pacific Islander,Male,Senior,Empowerment College Preparatory High School,Agriculture,20,3.9,3,2,1
+943,Lynsey,Ladley,Black/African American,Female,Freshman,Bellaire High School,Finance,10,2.3,2,2,1
+944,Obediah,Buxcy,Native Hawaiian/Other Pacific Islander,Male,Senior,Phillis Wheatley High School,Agriculture,0,2.0,3,0,0
+945,Ammamaria,Carlino,Black/African American,Female,Sophomore,Challenge Early College High School,Advertising/marketing,15,3.6,2,5+,1
+946,Dana,Downgate,Multicultural,Female,Freshman,East Early College High School,Entertainment,15,3.7,1,5+,0
+947,Bondy,McHardy,American Indian/Alaska Native,Male,Sophomore,Margaret Long Wisdom High School,Agriculture,5,2.2,2,2,1
+948,Sigismund,Barnwall,White,Male,Sophomore,Jack Yates High School,Education,0,2.1,2,5+,1
+949,Zollie,Ramsted,White,Male,Junior,Bellaire High School,Agriculture,10,2.5,3,5+,0
+950,Harli,Wanderschek,Asian,Bigender,Freshman,North Forest High School,Multimedia,10,3.1,1,1,1
+951,Linc,Ayling,Black/African American,Male,Freshman,Bellaire High School,Education,0,2.0,1,4,1
+952,Viole,Aland,White,Female,Junior,Challenge Early College High School,Engineering,15,3.7,2,5+,1
+953,Noland,Castells,White,Male,Junior,Phillis Wheatley High School,Engineering,10,4.0,2,4,0
+954,Muffin,Woolforde,White,Male,Sophomore,Challenge Early College High School,Finance,0,3.2,2,4,1
+955,Jeremias,Broadbury,White,Male,Junior,Evan E. Worthing High School,Engineering,10,3.6,3,5+,1
+956,Noell,Dodimead,Black/African American,Female,Junior,Scarborough High School,Multimedia,5,2.7,4,1,0
+957,Jacob,Philcott,White,Male,Freshman,Westbury High School,Engineering,0,3.1,1,1,1
+958,Carroll,Quillinane,White,Female,Sophomore,James Madison High School,Advertising/marketing,5,2.3,3,0,1
+959,Kanya,Greatrex,Hispanic/Latino,Female,Sophomore,East Early College High School,Fashion,5,2.6,3,5+,1
+960,Monro,Segge,Hispanic/Latino,Male,Junior,Ebbert L. Furr High School,Education,0,2.9,3,5+,1
+961,Britt,House,Hispanic/Latino,Female,Senior,Margaret Long Wisdom High School,Multimedia,20,3.5,5,1,1
+962,Johannes,Ever,American Indian/Alaska Native,Bigender,Sophomore,Ross Shaw Sterling High School,Engineering,5,2.1,2,5+,1
+963,Rolland,Geale,Asian,Male,Senior,Energy Institute High School,Medical,15,3.6,4,4,1
+964,Paige,Brotherhead,Native Hawaiian/Other Pacific Islander,Male,Junior,Bellaire High School,Medical,10,2.0,1,1,1
+965,Jo,McPaike,Native Hawaiian/Other Pacific Islander,Female,Senior,Northside High School,Medical,20,4.0,5,5+,1
+966,Woodie,Ardling,Native Hawaiian/Other Pacific Islander,Male,Freshman,Heights High School,Multimedia,20,3.9,1,1,0
+967,Anthe,Stichel,Multicultural,Female,Senior,Booker T. Washington High School,Engineering,15,3.9,6,3,0
+968,Caril,Jzak,Multicultural,Female,Senior,Westside High School,Engineering,20,3.1,4,1,0
+969,Dorothy,Tarborn,White,Non-binary,Sophomore,Stephen F. Austin High School,Agriculture,5,2.2,2,0,0
+970,Riva,Ausher,Hispanic/Latino,Female,Junior,North Forest High School,Multimedia,10,3.4,3,1,1
+971,Tillie,Novkovic,Black/African American,Female,Sophomore,Northside High School,Advertising/marketing,15,3.6,2,4,0
+972,Kerrill,Blemen,Hispanic/Latino,Female,Senior,James Madison High School,Agriculture,15,3.8,4,3,0
+973,Ransom,Bridgwater,American Indian/Alaska Native,Male,Junior,Bellaire High School,Advertising/marketing,10,2.1,4,0,1
+974,Becka,Tolliday,American Indian/Alaska Native,Female,Junior,Booker T. Washington High School,Advertising/marketing,5,2.0,3,0,0
+975,Mord,Currell,Black/African American,Male,Junior,Mirabeau B. Lamar High School,Engineering,10,3.0,2,5+,1
+976,Levy,Carss,White,Male,Senior,Sharpstown High School,Fashion,10,3.3,4,5+,0
+977,Quinlan,Enstone,Hispanic/Latino,Agender,Junior,Carnegie Vanguard High School,Education,15,3.7,3,3,1
+978,Hersh,Snelgrove,Hispanic/Latino,Male,Senior,James Madison High School,Finance,20,3.5,6,4,1
+979,Eula,Aspinwall,Multicultural,Female,Junior,North Forest High School,Entertainment,10,2.1,3,3,1
+980,Marrilee,Ruscoe,Black/African American,Female,Senior,Mirabeau B. Lamar High School,Multimedia,0,2.2,4,2,1
+981,Pollyanna,Hegerty,Hispanic/Latino,Female,Junior,Sam Houston Math Science & Technology Center,Fashion,0,3.3,2,3,1
+982,Elsa,Loren,White,Female,Junior,Jack Yates High School,Engineering,20,2.4,3,3,1
+983,Vidovik,Sarsfield,Hispanic/Latino,Male,Junior,Charles H. Milby High School,Entertainment,5,3.5,4,2,1
+984,Dani,Gecks,Multicultural,Male,Senior,Mirabeau B. Lamar High School,Medical,20,3.4,5,4,1
+985,Sherwynd,MacGilpatrick,Black/African American,Non-binary,Sophomore,Stephen F. Austin High School,Education,5,3.8,2,5+,1
+986,Abie,Forte,Black/African American,Male,Junior,Evan E. Worthing High School,Multimedia,10,2.0,1,0,1
+987,Carena,Sedworth,Multicultural,Female,Senior,North Forest High School,Medical,20,3.6,5,3,0
+988,Raphaela,Pavlasek,Hispanic/Latino,Female,Freshman,Empowerment College Preparatory High School,Engineering,10,2.4,1,4,0
+989,Thatcher,Cornier,White,Agender,Junior,Empowerment College Preparatory High School,Fashion,10,3.5,3,4,0
+990,Anabelle,Tunnadine,Hispanic/Latino,Female,Sophomore,Challenge Early College High School,Fashion,20,3.9,3,3,1
+991,Baxy,Happer,Black/African American,Male,Sophomore,Westbury High School,Agriculture,10,2.4,2,0,1
+992,Claribel,Garlicke,White,Female,Junior,Evan E. Worthing High School,Agriculture,10,3.3,4,0,1
+993,Lorna,Bleiman,Native Hawaiian/Other Pacific Islander,Female,Freshman,Mirabeau B. Lamar High School,Finance,5,2.2,2,5+,0
+994,Marcus,Malcolm,American Indian/Alaska Native,Male,Freshman,Booker T. Washington High School,Advertising/marketing,5,2.1,2,3,1
+995,Kim,Busen,Hispanic/Latino,Female,Junior,Carnegie Vanguard High School,Finance,10,2.1,4,2,1
+996,Haley,Santostefano.,Hispanic/Latino,Female,Freshman,Stephen F. Austin High School,Advertising/marketing,0,3.0,1,1,1
+997,Kenton,Dominguez,Hispanic/Latino,Male,Freshman,Scarborough High School,Multimedia,10,2.0,2,5+,1
+998,Hanan,Gerren,Asian,Male,Junior,North Forest High School,Medical,20,3.5,5,3,1
+999,Alexa,Albinson,Hispanic/Latino,Bigender,Sophomore,Jack Yates High School,Entertainment,15,4.0,3,2,1
+1000,Kikelia,Barraclough,Multicultural,Female,Senior,Eastwood Academy,Fashion,20,3.1,6,3,1
